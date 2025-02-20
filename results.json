@@ -1,0 +1,3467 @@
+[
+    {
+        "head": "Definition",
+        "head_type": "statute",
+        "relation": "demonstrated that they are not in the position of fixing",
+        "tail": "deal",
+        "tail_type": "contract",
+        "relation_definition": "The statute demonstrates that they are unable to fix a contract.",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 7
+    },
+    {
+        "head": "Cr.A.No 834",
+        "head_type": "Criminal Act",
+        "relation": "refers to",
+        "tail": "of 2002",
+        "tail_type": "year",
+        "relation_definition": "The case number refers to criminal acts that occurred in the year 2002.",
+        "sentence": "Cr.A.No 834 of 2002 refers to criminal acts that occurred in the year 2002.",
+        "sentence_number": 5
+    },
+    {
+        "head": "Cr.A.No 834 of 2002",
+        "head_type": "",
+        "relation": "",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "",
+        "sentence": "Cr.A.No 834 of 2002",
+        "sentence_number": 5
+    },
+    {
+        "head": "20 July 2006",
+        "head_type": "Date and Time",
+        "relation": "",
+        "tail": null,
+        "tail_type": null,
+        "relation_definition": "",
+        "sentence": "20 July 2006",
+        "sentence_number": "4"
+    },
+    {
+        "head": "Judgment",
+        "head_type": "judgment",
+        "relation": "was delivered by",
+        "tail": "R V Raveendran, J",
+        "tail_type": "judge",
+        "relation_definition": "the judgment was delivered by the judge.",
+        "sentence": "The Judgment was delivered by: R V Raveendran, J",
+        "sentence_number": 6
+    },
+    {
+        "head": "Judgment",
+        "head_type": "Judgment or Decree",
+        "relation": "was delivered by",
+        "tail": "R V Raveendran",
+        "tail_type": "Justice",
+        "relation_definition": "The judgment was delivered by the justice.",
+        "sentence": "The Judgment was delivered by: R V Raveendran, J",
+        "sentence_number": 6
+    },
+    {
+        "head": "R V Raveendran",
+        "head_type": "Court Official - Judge or Bench",
+        "relation": "delivered by",
+        "tail": "judgment",
+        "tail_type": "Court proceeding",
+        "relation_definition": "The court official delivered the judgment.",
+        "sentence": "The judgment was delivered by: R V Raveendran, J",
+        "sentence_number": 6
+    },
+    {
+        "head": "These appeals",
+        "head_type": "case",
+        "relation": "filed against",
+        "tail": "common order",
+        "tail_type": "judgment",
+        "relation_definition": "The case (appeals) was filed against the judgment (common order).",
+        "sentence": "These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "sentence_number": 8
+    },
+    {
+        "head": "common order",
+        "head_type": "judgment",
+        "relation": "passed by",
+        "tail": "Madras High Court",
+        "tail_type": "court",
+        "relation_definition": "The judgment (common order) was passed by the court (Madras High Court).",
+        "sentence": "These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "sentence_number": 8
+    },
+    {
+        "head": "These appeals",
+        "head_type": "appeals",
+        "relation": "filed against",
+        "tail": "common order",
+        "tail_type": "criminal order",
+        "relation_definition": "these appeals were filed against the criminal order.",
+        "sentence": "These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "sentence_number": 8
+    },
+    {
+        "head": "These appeals",
+        "head_type": "Appeal(s)",
+        "relation": "filed against",
+        "tail": "the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "tail_type": "Court Official - Judge or Bench",
+        "sentence": "These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "sentence_number": "8"
+    },
+    {
+        "head": "Crl.OP No2418 of 1999",
+        "head_type": "Case Number",
+        "relation": "allowed by",
+        "tail": "the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "tail_type": "Court Official - Judge or Bench",
+        "sentence": "These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "sentence_number": "8"
+    },
+    {
+        "head": "Crl.OP No1563 of 2000",
+        "head_type": "Case Number",
+        "relation": "allowed by",
+        "tail": "the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "tail_type": "Court Official - Judge or Bench",
+        "sentence": "These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.",
+        "sentence_number": "8"
+    },
+    {
+        "head": "Appeals",
+        "head_type": "Appeal",
+        "relation": "filed against",
+        "tail": "common order",
+        "tail_type": "Location",
+        "relation_definition": "The appeals are filed against the common legal judgment.",
+        "sentence": "These appeals are filed against the common order passed by the Madras High Court.",
+        "sentence_number": 8
+    },
+    {
+        "head": "2932001",
+        "head_type": "Date and Time",
+        "relation": "related to",
+        "tail": "common order",
+        "tail_type": "Location",
+        "relation_definition": "The date indicates when the legal decision was made.",
+        "sentence": "The appeal is against the common order passed on this date.",
+        "sentence_number": 8
+    },
+    {
+        "head": "Respondents",
+        "relation": "filed two petitions",
+        "tail": "petitions",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "Appellant",
+        "relation": "filed complaints against",
+        "tail": "respondents",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "Respondents",
+        "head_type": "Infringer/Defendant",
+        "relation": "filed petitions against",
+        "tail": "complaints filed by appellant",
+        "relation_definition": "Legal action taken to quash complaints",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "Criminal Procedure Code",
+        "head_type": "Statute",
+        "relation": "used by",
+        "tail": "respondents herein",
+        "relation_definition": "Referred to in legal actions to quash complaints",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "CC No. 299 of 1999",
+        "head_type": "Criminal Case",
+        "relation": "on the file of",
+        "tail": "Judicial Magistrate No6, Coimbatore",
+        "relation_definition": "Location where legal actions are recorded",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "CC No. 286 of 1998",
+        "head_type": "Criminal Case",
+        "relation": "on the file of",
+        "tail": "Judicial Magistrate, Alandur (Chennai)",
+        "relation_definition": "Location where legal actions are recorded",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "The respondents",
+        "tail": "section 482 of Criminal Procedure Code",
+        "relation": "filed under",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "Appellant",
+        "tail": "respondents",
+        "relation": "filed against",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "CC No.299/1999",
+        "tail": "Judicial Magistrate No6",
+        "relation": "on file of",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "CC No.286/1998",
+        "tail": "Judicial Magistrate, Alandur",
+        "relation": "on file of",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "Petition": "Petitioner",
+        "Respondent": "Respondent",
+        "relation": "filed by",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "Complaint": "Complainant",
+        "Respondent": "Respondent",
+        "relation": "filed against",
+        "Case": "Location",
+        "sentence": "The said two petitions were filed by the respondents herein u/s. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).",
+        "sentence_number": 9
+    },
+    {
+        "head": "difinition",
+        "head_type": "unknown",
+        "relation": "demonstrated",
+        "tail": "position of fixing a deal",
+        "tail_type": "deal",
+        "relation_definition": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence": "The difinition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 3
+    },
+    {
+        "head": "Indian Oil Corporation (IOC)",
+        "head_type": "organization",
+        "relation": "contracted with",
+        "tail": "NEPC India Ltd",
+        "tail_type": "organization",
+        "relation_definition": "The organization entered into a contract with another organization.",
+        "sentence": "The appellant, Indian Oil Corporation (IOC), entered into two contracts: one with NEPC India Ltd and the other with its sister company Skyline NEPC Limited.",
+        "sentence_number": 12
+    },
+    {
+        "head": "Skyline NEPC Limited",
+        "head_type": "organization",
+        "relation": "contracted with",
+        "tail": "Skyline NEPC Limited",
+        "tail_type": "organization",
+        "relation_definition": "The organization entered into a contract with its sister company.",
+        "sentence": "The appellant, Indian Oil Corporation (IOC), entered into two contracts: one with NEPC India Ltd and the other with its sister company Skyline NEPC Limited.",
+        "sentence_number": 12
+    },
+    {
+        "head": "Indian Oil Corporation for short 'IOC'",
+        "head_type": "Company",
+        "relation": "entered into",
+        "tail": "NEPC India Ltd and Skyline NEPC Limited",
+        "tail_type": "Companies",
+        "relation_definition": "IOC, as a company, entered into contracts with other companies.",
+        "sentence": "The appellant (Indian Oil Corporation for short 'IOC') entered into two contracts one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as aircraft fuel ).",
+        "sentence_number": 12
+    },
+    {
+        "head": "Indian Oil Corporation",
+        "head_type": "Party",
+        "relation": "entered into contract with",
+        "tail": "NEPC India Ltd",
+        "tail_type": "Party",
+        "relation_definition": "The appellant, Indian Oil Corporation (IOC), entered into a contract with NEPC India Ltd.",
+        "sentence": "The appellant (Indian Oil Corporation for short 'IOC') entered into two contracts one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as aircraft fuel ).",
+        "sentence_number": 12
+    },
+    {
+        "head": "Indian Oil Corporation",
+        "head_type": "Party",
+        "relation": "entered into contract with",
+        "tail": "Skyline NEPC Limited",
+        "tail_type": "Party",
+        "relation_definition": "The appellant, Indian Oil Corporation (IOC), entered into a contract with Skyline NEPC Limited.",
+        "sentence": "The appellant (Indian Oil Corporation for short 'IOC') entered into two contracts one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as aircraft fuel ).",
+        "sentence_number": 12
+    },
+    {
+        "head": "Indian Oil Corporation (IOC)",
+        "head_type": "petitioner",
+        "relation": "contracted with",
+        "tail": "NEPC India Ltd",
+        "tail_type": "respondent",
+        "relation_definition": "The petitioner entered into a contract with the respondent.",
+        "sentence": "The appellant (Indian Oil Corporation for short 'IOC') entered into two contracts one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as aircraft fuel ).",
+        "sentence_number": 12
+    },
+    {
+        "head": "Indian Oil Corporation (IOC)",
+        "head_type": "petitioner",
+        "relation": "contracted with another",
+        "tail": "Skyline NEPC Limited",
+        "tail_type": "respondent",
+        "relation_definition": "The petitioner entered into a contract with another respondent.",
+        "sentence": "The appellant (Indian Oil Corporation for short 'IOC') entered into two contracts one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as aircraft fuel ).",
+        "sentence_number": 12
+    },
+    {
+        "head": "first respondent",
+        "head_type": "respondent",
+        "relation": "hypothecated",
+        "tail": "Deed of Hypothecation",
+        "tail_type": "deed",
+        "relation_definition": "The respondent created a legal lien on the aircraft to secure outstanding amounts.",
+        "sentence": "The first respondent hypothecated its two Fokker F27 500 Aircrafts bearing Registration No. VT NEJ (12684) and VT NEK (10687) to the appellant under Deed of Hypothecation dated 151997 to secure the outstanding amounts.",
+        "sentence_number": 16
+    },
+    {
+        "head": "two Fokker F27 500 Aircrafts",
+        "head_type": "aircraft",
+        "relation": "hypothecated",
+        "tail": "Deed of Hypothecation",
+        "tail_type": "deed",
+        "relation_definition": "The aircraft were subject to a legal lien created by the respondent.",
+        "sentence": "The first respondent hypothecated its two Fokker F27 500 Aircrafts bearing Registration No. VT NEJ (12684) and VT NEK (10687) to the appellant under Deed of Hypothecation dated 151997 to secure the outstanding amounts.",
+        "sentence_number": 16
+    },
+    {
+        "head": "VT NEJ (12684)",
+        "head_type": "aircraft_registration",
+        "relation": "hypothecated",
+        "tail": "Deed of Hypothecation",
+        "tail_type": "deed",
+        "relation_definition": "The aircraft with registration number VT NEJ was subject to a legal lien.",
+        "sentence": "The first respondent hypothecated its two Fokker F27 500 Aircrafts bearing Registration No. VT NEJ (12684) and VT NEK (10687) to the appellant under Deed of Hypothecation dated 151997 to secure the outstanding amounts.",
+        "sentence_number": 16
+    },
+    {
+        "head": "VT NEK (10687)",
+        "head_type": "aircraft_registration",
+        "relation": "hypothecated",
+        "tail": "Deed of Hypothecation",
+        "tail_type": "deed",
+        "relation_definition": "The aircraft with registration number VT NEK was subject to a legal lien.",
+        "sentence": "The first respondent hypothecated its two Fokker F27 500 Aircrafts bearing Registration No. VT NEJ (12684) and VT NEK (10687) to the appellant under Deed of Hypothecation dated 151997 to secure the outstanding amounts.",
+        "sentence_number": 16
+    },
+    {
+        "head": "The first respondent",
+        "head_type": "Party",
+        "relation": "hypothecated to",
+        "tail": "the appellant",
+        "tail_type": "Party",
+        "relation_definition": "The first respondent used a deed of hypothecation to transfer aircrafts to the appellant to secure outstanding amounts.",
+        "sentence": "The first respondent hypothecated its two Fokker F27 500 Aircrafts bearing Registration No. VT NEJ (12684) and VT NEK (10687) to the appellant under Deed of Hypothecation dated 151997 to secure the outstanding amounts.",
+        "sentence_number": 16
+    },
+    {
+        "head": "The first respondent",
+        "head_type": "respondent",
+        "relation": "hypothecated to",
+        "tail": "the appellant",
+        "tail_type": "petitioner",
+        "relation_definition": "The respondent used a deed of hypothecation to secure the outstanding amounts owed by the petitioner.",
+        "sentence_number": 16,
+        "sentence": "The first respondent hypothecated its two Fokker F27 500 Aircrafts bearing Registration No. VT NEJ (12684) and VT NEK (10687) to the appellant under Deed of Hypothecation dated 151997 to secure the outstanding amounts."
+    },
+    {
+        "party": "Appellant",
+        "role": "Plaintiff",
+        "relation": "filed a case against",
+        "related_party": "First Respondent",
+        "related_role": "Defendant",
+        "sentence": "According to the appellant in respect of the aircraft fuel supplied under the said contracts the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "party": "Appellant",
+        "role": "Plaintiff",
+        "relation": "filed a case against",
+        "related_party": "Skyline",
+        "related_role": "Defendant",
+        "sentence": "According to the appellant in respect of the aircraft fuel supplied under the said contracts the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "appellant",
+        "head_type": "Appellant",
+        "relation": "in respect of",
+        "tail": "aircraft fuel supplied under the said contracts",
+        "tail_type": "subject matter",
+        "relation_definition": "The appellant brought a case regarding aircraft fuel supplied under specific contracts.",
+        "sentence": "According to the appellant in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "first respondent",
+        "head_type": "Respondent",
+        "relation": "became due in",
+        "tail": "sum of Rs.5 28 23 501.90",
+        "tail_type": "financial obligation",
+        "relation_definition": "The first respondent incurred a financial obligation of Rs.5 28 23 501.90.",
+        "sentence": "According to the appellant in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "Skyline",
+        "head_type": "Party",
+        "relation": "became due in",
+        "tail": "sum of Rs.13 12 76 421.25",
+        "tail_type": "financial obligation",
+        "relation_definition": "Skyline incurred a financial obligation of Rs.13 12 76 421.25.",
+        "sentence": "According to the appellant in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "appellant",
+        "head_type": "petitioner",
+        "relation": "in respect of",
+        "tail": "aircraft fuel supplied under the said contracts",
+        "tail_type": "dispute",
+        "relation_definition": "The petitioner brought up the matter regarding aircraft fuel supply under the contracts.",
+        "sentence": "According to the petitioner in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "first respondent",
+        "head_type": "respondent",
+        "relation": "became due in",
+        "tail": "Rs.5 28 23 501.90",
+        "tail_type": "sum",
+        "relation_definition": "The first respondent became due in the specified sum of money.",
+        "sentence": "According to the petitioner in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "Skyline",
+        "head_type": "respondent",
+        "relation": "became due in",
+        "tail": "Rs.13 12 76 421.25",
+        "tail_type": "sum",
+        "relation_definition": "The respondent Skyline became due in the specified sum of money.",
+        "sentence": "According to the petitioner in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "2941997",
+        "head_type": "date and time",
+        "relation": "as on",
+        "tail": "Rs.5 28 23 501.90 and Rs.13 12 76 421.25",
+        "tail_type": "sum",
+        "relation_definition": "The sums became due as of the specified date.",
+        "sentence": "According to the petitioner in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5 28 23 501.90 and Skyline became due in a sum of Rs.13 12 76 421.25 as on 2941997.",
+        "sentence_number": 13
+    },
+    {
+        "head": "Cl. (3)",
+        "head_type": "statute",
+        "relation": "read with",
+        "tail": "schedule",
+        "tail_type": "schedule",
+        "relation_definition": "Clause 3 of the statute was read alongside the schedule.",
+        "sentence": "Clause (3) read with the schedule set out the instalments schedule for payment of the amount due.",
+        "sentence_number": 18
+    },
+    {
+        "head": "schedule",
+        "head_type": "schedule",
+        "relation": "set out",
+        "tail": "instalments schedule for payment of the amount due",
+        "tail_type": "contract",
+        "relation_definition": "The schedule outlined the instalment schedule for the payment of the amount due.",
+        "sentence": "Clause (3) read with the schedule set out the instalments schedule for payment of the amount due.",
+        "sentence_number": 18
+    },
+    {
+        "head": "Clause (3)",
+        "type": "Provision",
+        "relation": "read with",
+        "tail": "schedule",
+        "definition": "Clause (3) incorporates the instalments schedule for payment of the amount due.",
+        "sentence": "Cl. (3) read with the schedule set out the instalments schedule for payment of the amount due.",
+        "sentence_number": 18
+    },
+    {
+        "head": "schedule",
+        "type": "Provision",
+        "relation": "",
+        "tail": "amount due",
+        "definition": "The schedule sets out the instalments schedule for payment of the amount due.",
+        "sentence": "Cl. (3) read with the schedule set out the instalments schedule for payment of the amount due.",
+        "sentence_number": 18
+    },
+    {
+        "head": "Cl. (2) of the said Deed",
+        "head_type": "contract",
+        "relation": "provided that",
+        "tail": "two aircrafts with all parts and accessories",
+        "tail_type": "security",
+        "relation_definition": "The deed provided terms for security over the aircrafts.",
+        "sentence": "Cl. (2) of the said Deed provided that the two aircrafts with all parts and accessories stood hypothecated to IOC by way of charge and as security for payment of the amounts due with effect from the date of hypothecation.",
+        "sentence_number": 17
+    },
+    {
+        "head": "two aircrafts with all parts and accessories",
+        "head_type": "security",
+        "relation": "stood hypothecated against",
+        "tail": "IOC",
+        "tail_type": "company",
+        "relation_definition": "The aircrafts were hypothecated as security to IOC.",
+        "sentence": "Cl. (2) of the said Deed provided that the two aircrafts with all parts and accessories stood hypothecated to IOC by way of charge and as security for payment of the amounts due with effect from the date of hypothecation.",
+        "sentence_number": 17
+    },
+    {
+        "head": "",
+        "head_type": "",
+        "relation": "",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 20
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "organization",
+        "relation": "handed over",
+        "tail": "IOC",
+        "tail_type": "organization",
+        "relation_definition": "The organization transferred title deeds to another organization.",
+        "sentence": "Cl. 12 confirmed that NEPC India had handed over the title deeds relating to the aircraft to IOC and agreed to receive them back only after paying the amounts due.",
+        "sentence_number": 24
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "Company",
+        "relation": "handed over",
+        "tail": "title deeds relating to aircraft",
+        "tail_type": "document",
+        "contract": "Cl. 12",
+        "sentence": "Cl. 12 confirmed that NEPC India had handed over the title deeds relating to the aircraft to IOC and agreed to receive them back only after paying the amounts due.",
+        "sentence_number": 24
+    },
+    {
+        "head": "IOC",
+        "head_type": "Organization",
+        "relation": "agreed to receive",
+        "tail": "amounts due",
+        "tail_type": "financial obligation",
+        "contract": "Cl. 12",
+        "sentence": "Cl. 12 confirmed that NEPC India had handed over the title deeds relating to the aircraft to IOC and agreed to receive them back only after paying the amounts due.",
+        "sentence_number": 24
+    },
+    {
+        "head": "Cl. 12",
+        "head_type": "provision",
+        "relation": "confirmed that NEPC India had handed over the title deeds relating to the aircraft",
+        "tail": "NEPC India",
+        "tail_type": "party",
+        "relation_definition": "The clause confirmed that NEPC India transferred the title deeds related to the aircraft.",
+        "sentence": "Clause 12 confirmed that NEPC India had handed over the title deeds relating to the aircraft to IOC and agreed to receive them back only after paying the amounts due.",
+        "sentence_number": 24
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "party",
+        "relation": "had handed over the title deeds relating to the aircraft",
+        "tail": "IOC",
+        "tail_type": "party",
+        "relation_definition": "NEPC India transferred ownership of the aircraft's title deeds to IOC.",
+        "sentence": "Clause 12 confirmed that NEPC India had handed over the title deeds relating to the aircraft to IOC and agreed to receive them back only after paying the amounts due.",
+        "sentence_number": 24
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "organization",
+        "relation": "handed over title deeds relating to the aircraft",
+        "tail": "IOC",
+        "tail_type": "organization",
+        "relation_definition": "NEPC India transferred ownership of the aircraft's title deeds to IOC.",
+        "sentence": "Cl. 12 confirmed that NEPC India had handed over the title deeds relating to the aircraft to IOC and agreed to receive them back only after paying the amounts due.",
+        "sentence_number": 24
+    },
+    {
+        "head": "It",
+        "head_type": "contract",
+        "relation": "undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.",
+        "tail": "hypothecated property",
+        "tail_type": "property",
+        "relation_definition": "The party undertook not to perform actions that would reduce the value of the property unless the outstanding amount is cleared.",
+        "sentence": "It also undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.",
+        "sentence_number": 22
+    },
+    {
+        "head": "It",
+        "head_type": "Party",
+        "relation": "undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.",
+        "tail": "any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount",
+        "tail_type": "Party",
+        "relation_definition": "The party undertook an obligation not to perform certain actions until a specific condition is met.",
+        "sentence": "It also undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.",
+        "sentence_number": 22
+    },
+    {
+        "head": "Dispute",
+        "relation": "Undertaking obligations tied to property and financial conditions.",
+        "tail": "Hypothecated property, outstanding amount",
+        "sentence": "It also undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.",
+        "sentence_number": 22
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "Company",
+        "relation": "declared that it would not assign sell pledge charge underlet or otherwise encumber or part with the possession custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.",
+        "tail": "two aircrafts",
+        "tail_type": "Property",
+        "relation_definition": "NEPC India cannot assign, sell, or otherwise transfer possession of the aircrafts without prior written consent from IOC under clause (6) NEPC India declaration.",
+        "sentence": "Under clause (6) NEPC India declared that it would not assign sell pledge charge underlet or otherwise encumber or part with the possession custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.",
+        "sentence_number": 21
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "Government",
+        "relation": "declared",
+        "tail": "clause (6)",
+        "tail_type": "Provision",
+        "relation_definition": "Declared that it would not assign sell pledge charge underlet or otherwise encumber or part with the possession custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.",
+        "sentence": "Under clause (6) NEPC India declared that it would not assign sell pledge charge underlet or otherwise encumber or part with the possession custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.",
+        "sentence_number": 21
+    },
+    {
+        "head": "IOC",
+        "head_type": "Government",
+        "relation": "consent",
+        "tail": "NEPC India",
+        "tail_type": "Government",
+        "relation_definition": "Written consent is required for certain actions.",
+        "sentence": "Under clause (6) NEPC India declared that it would not assign sell pledge charge underlet or otherwise encumber or part with the possession custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.",
+        "sentence_number": 21
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "organization",
+        "relation": "granted right to",
+        "tail": "IOC",
+        "tail_type": "organization",
+        "relation_definition": "NEPC India granted IOC the right to take possession of the property under certain conditions.",
+        "sentence": "Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time or if any undertaking or assurance given by NEPC India was found to be false, IOC shall have the right to take possession of the hypothecated property and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.",
+        "sentence_number": 23
+    },
+    {
+        "head": "Cl. (9)",
+        "headType": "Statute",
+        "relation": "provided that",
+        "tail": "NEPC India",
+        "tailType": "Company",
+        "definition": "If NEPC India fails to pay any installments with interest within the stipulated time or if any undertaking is found to be false, IOC shall have the right to take possession and sell the property.",
+        "sentence": "Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time or if any undertaking or assurance given by NEPC India was found to be false IOC shall have the right to take possession of the hypothecated property and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.",
+        "sentence_number": 23
+    },
+    {
+        "head": "IOC",
+        "headType": "Company",
+        "relation": "shall have the right",
+        "tail": "NEPC India",
+        "tailType": "Company",
+        "definition": "Upon NEPC India's failure to meet obligations, IOC can enforce their rights and appropriate sale proceeds.",
+        "sentence": "Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time or if any undertaking or assurance given by NEPC India was found to be false IOC shall have the right to take possession of the hypothecated property and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.",
+        "sentence_number": 23
+    },
+    {
+        "head": "Cl. (9)",
+        "relation": "provided that",
+        "tail": "if NEPC India failed to pay any of the installments with interest within the stipulated time or if any undertaking or assurance given by NEPC India was found to be false",
+        "entity1_type": "Provision",
+        "entity2_type": "Party",
+        "sentence": "Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time or if any undertaking or assurance given by NEPC India was found to be false IOC shall have the right to take possession of the hypothecated property and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.",
+        "sentence_number": 23
+    },
+    {
+        "head": "IOC",
+        "relation": "shall have the right",
+        "tail": "to take possession of the hypothecated property and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.",
+        "entity1_type": "Party",
+        "entity2_type": "Right",
+        "sentence": "Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time or if any undertaking or assurance given by NEPC India was found to be false IOC shall have the right to take possession of the hypothecated property and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.",
+        "sentence_number": 23
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "respondent",
+        "relation": "if failed to pay installments...",
+        "tail": "IOC",
+        "tail_type": "petitioner",
+        "relation_definition": "If NEPC India failed to meet obligations, IOC could enforce actions.",
+        "sentence": "Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time or if any undertaking or assurance given by NEPC India was found to be false, IOC shall have the right to take possession of the hypothecated property and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.",
+        "sentence_number": 23
+    },
+    {
+        "head": "IOC NEPC India",
+        "head_type": "organization",
+        "relation": "entered among",
+        "tail": "Skyline",
+        "tail_type": "organization",
+        "relation_definition": "IOC NEPC India and Skyline entered into a tripartite agreement.",
+        "sentence": "It is further stated that a tripartite agreement dated 651997 was entered among IOC NEPC India and Skyline setting out the mode of payment of the dues and recovery in the event of default.",
+        "sentence_number": 26
+    },
+    {
+        "head": "Skyline",
+        "head_type": "organization",
+        "relation": "entered among",
+        "tail": "IOC NEPC India",
+        "tail_type": "organization",
+        "relation_definition": "Skyline and IOC NEPC India entered into a tripartite agreement.",
+        "sentence": "It is further stated that a tripartite agreement dated 651997 was entered among IOC NEPC India and Skyline setting out the mode of payment of the dues and recovery in the event of default.",
+        "sentence_number": 26
+    },
+    {
+        "head": "tripartite agreement",
+        "head_type": "contract",
+        "relation": "entered among",
+        "tail": "IOC NEPC India and Skyline",
+        "tail_type": "companies",
+        "relation_definition": "a contract was formed between IOC NEPC India and Skyline.",
+        "sentence": "It is further stated that a tripartite agreement dated 651997 was entered among IOC NEPC India and Skyline setting out the mode of payment of the dues and recovery in the event of default.",
+        "sentence_number": 26
+    },
+    {
+        "head": "IOC NEPC India",
+        "head_type": "Party",
+        "relation": "entered into",
+        "tail": "Tripartite agreement",
+        "tail_type": "Agreement",
+        "relation_definition": "The party entered into the Tripartite agreement with another entity.",
+        "sentence": "IOC NEPC India entered into the Tripartite agreement with Skyline.",
+        "sentence_number": 26
+    },
+    {
+        "head": "Skyline",
+        "head_type": "Party",
+        "relation": "entered into",
+        "tail": "Tripartite agreement",
+        "tail_type": "Agreement",
+        "relation_definition": "The party entered into the Tripartite agreement with another entity.",
+        "sentence": "Skyline entered into the Tripartite agreement with IOC NEPC India.",
+        "sentence_number": 26
+    },
+    {
+        "head": "Skyline",
+        "head_type": "Company",
+        "relation": "hypothecated under",
+        "tail": "Hypothecation Deed",
+        "tail_type": "Document",
+        "relation_definition": "Skyline, as a company, hypothecated its aircraft under a separate Hypothecation Deed.",
+        "sentence": "It is stated that Skyline also hypothecated its aircraft (VT ECP) under a separate Hypothecation Deed dated 1451997.",
+        "sentence_number": 25
+    },
+    {
+        "head": "Skyline",
+        "head_type": "Party",
+        "relation": "hypothecated",
+        "tail": "aircraft (VT ECP)",
+        "tail_type": "Asset",
+        "relation_definition": "A party can hypothecate an asset as collateral.",
+        "sentence": "It is stated that Skyline also hypothecated its aircraft (VT ECP) under a separate Hypothecation Deed dated 1451997.",
+        "sentence_number": 25
+    },
+    {
+        "head": "Skyline",
+        "head_type": "Party",
+        "relation": "under",
+        "tail": "Hypothecation Deed",
+        "tail_type": "Legal Document",
+        "relation_definition": "A party can be under a separate Hypothecation Deed.",
+        "sentence": "It is stated that Skyline also hypothecated its aircraft (VT ECP) under a separate Hypothecation Deed dated 1451997.",
+        "sentence_number": 25
+    },
+    {
+        "head": "Skyline",
+        "head_type": "organization",
+        "relation": "hypothecated under",
+        "tail": "Hypothecation Deed",
+        "tail_type": "document",
+        "relation_definition": "The organization used a document to hypothecate its aircraft.",
+        "sentence": "It is stated that Skyline also hypothecated its aircraft (VT ECP) under a separate Hypothecation Deed dated 1451997.",
+        "sentence_number": 25
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "organization",
+        "relation": "failed to pay",
+        "tail": "first two installments",
+        "tail_type": "installment",
+        "sentence": "As NEPC India failed to pay the first two installments as per schedule IOC stopped supply of aircraft fuel on 361997.",
+        "sentence_number": 29
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "Company",
+        "relation": "failed to pay the first two installments as per schedule",
+        "tail": "Contract",
+        "tail_type": "Contract",
+        "relation_definition": "Company failed to fulfill payment obligations under a contract, leading to supply stoppage.",
+        "sentence": "As NEPC India failed to pay the first two installments as per schedule, IOC stopped supply of aircraft fuel on 29/7/1997.",
+        "sentence_number": 29
+    },
+    {
+        "head": "IOC",
+        "head_type": "Company",
+        "relation": "stopped supply of aircraft fuel",
+        "tail": "Contract",
+        "tail_type": "Contract",
+        "relation_definition": "The company stopped supplying due to the other party's failure to pay under a contract.",
+        "sentence": "As NEPC India failed to pay the first two installments as per schedule, IOC stopped supply of aircraft fuel on 29/7/1997.",
+        "sentence_number": 29
+    },
+    {
+        "head": "The definition",
+        "head_type": "statute",
+        "relation": "demonstrated that they are not in the position of fixing a deal",
+        "tail": "fixing a deal",
+        "tail_type": "contract",
+        "relation_definition": "the legal entity (statute) demonstrated that it is not in the position to fix a contract.",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 33
+    },
+    {
+        "head": "definition",
+        "head_type": "ratio-decidi",
+        "relation": "demonstrated that they are not in the position of fixing a deal",
+        "tail": "they",
+        "tail_type": "accused",
+        "relation_definition": "the legal principle or reasoning related to the accused's position.",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 33
+    },
+    {
+        "head": "IOC",
+        "head_type": "organization",
+        "relation": "agreed to re-commence supply of aircraft fuel on 'cash and carry' basis",
+        "tail": "revised payment schedule",
+        "tail_type": "agreement",
+        "relation_definition": "The organization agreed to terms regarding the supply of aircraft fuel under a revised payment schedule.",
+        "sentence": "However subsequently under a fresh agreement dated 2091997, a revised payment schedule was agreed and IOC agreed to re commence supply of aircraft fuel on 'cash and carry' basis.",
+        "sentence_number": 30
+    },
+    {
+        "head": "revised payment schedule",
+        "head_type": "contract",
+        "relation": "agreed under",
+        "tail": "agreement",
+        "tail_type": "contract",
+        "relation_definition": "The revised payment schedule was part of the contract agreed under the agreement.",
+        "sentence": "Under a fresh agreement, a revised payment schedule was agreed, and IOC agreed to re-commence supply of aircraft fuel on 'cash and carry' basis.",
+        "sentence_number": 30
+    },
+    {
+        "head": "IOC",
+        "head_type": "company",
+        "relation": "agreed to",
+        "tail": "re-commence supply",
+        "tail_type": "supply",
+        "relation_definition": "The company, IOC, agreed to resume supplying aircraft fuel.",
+        "sentence": "Under a fresh agreement, a revised payment schedule was agreed, and IOC agreed to re-commence supply of aircraft fuel on 'cash and carry' basis.",
+        "sentence_number": 30
+    },
+    {
+        "head": "IOC",
+        "head_type": "Organization",
+        "relation": "agreed to re-commence supply of aircraft fuel",
+        "tail": "revised payment schedule",
+        "tail_type": "Provision",
+        "definition": "IOC agreed to resume the supply of aircraft fuel under a revised payment schedule.",
+        "sentence": "However subsequently under a fresh agreement dated 2091997 a revised payment schedule was agreed and IOC agreed to re commence supply of aircraft fuel on 'cash and carry' basis.",
+        "sentence_number": "30"
+    },
+    {
+        "head": "fresh agreement",
+        "head_type": "Legal Document",
+        "relation": "was agreed",
+        "tail": "revised payment schedule",
+        "tail_type": "Provision",
+        "definition": "A revised payment schedule was agreed under the fresh agreement.",
+        "sentence": "However subsequently under a fresh agreement dated 2091997 a revised payment schedule was agreed and IOC agreed to re commence supply of aircraft fuel on 'cash and carry' basis.",
+        "sentence_number": "30"
+    },
+    {
+        "head": "IOC",
+        "head_type": "respondent",
+        "relation": "agreed to re commence supply of aircraft fuel on",
+        "tail": "'cash and carry' basis",
+        "tail_type": "basis",
+        "relation_definition": "IOC agreed to provide aircraft fuel under a 'cash and carry' arrangement.",
+        "sentence": "However subsequently under a fresh agreement dated 2091997, a revised payment schedule was agreed and IOC agreed to re commence supply of aircraft fuel on 'cash and carry' basis.",
+        "sentence_number": 30
+    },
+    {
+        "head": "definition",
+        "head_type": "Ratio-Decidendi",
+        "relation": "demonstrated that",
+        "tail": "they",
+        "tail_type": "Accused",
+        "relation_definition": "The legal principle demonstrated that the accused party is unable to proceed with fixing a deal.",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 7
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "plaintiff",
+        "relation": "filed CS No.425 of 1997",
+        "tail": "Madras High Court",
+        "tail_type": "court",
+        "relation_definition": "the plaintiff filed a case in the court.",
+        "sentence": "NEPC India filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport under section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "Madras High Court",
+        "head_type": "court",
+        "relation": "venue",
+        "tail": "NEPC India",
+        "tail_type": "plaintiff",
+        "relation_definition": "the court is the venue where the plaintiff filed the case.",
+        "sentence": "NEPC India filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport under section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "Airport Authority of India",
+        "head_type": "defendant",
+        "relation": "sued by",
+        "tail": "NEPC India",
+        "tail_type": "plaintiff",
+        "relation_definition": "the defendant was sued by the plaintiff.",
+        "sentence": "NEPC India filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport under section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "Director General of Civil Aviation",
+        "head_type": "defendant",
+        "relation": "sued by",
+        "tail": "NEPC India",
+        "tail_type": "plaintiff",
+        "relation_definition": "the defendant was sued by the plaintiff.",
+        "sentence": "NEPC India filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport under section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "section 8 of the Aircraft Act 1934",
+        "head_type": "legislation",
+        "relation": "applied by",
+        "tail": "Airport Authority of India",
+        "tail_type": "defendant",
+        "relation_definition": "the legislation was applied to the defendant.",
+        "sentence": "NEPC India filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport under section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "NEPC India",
+        "tail": "Company",
+        "sentence": "Apprehending that NEPC India may remove the hypothecated aircraft (VT NEJ) from Coimbatore Airport to a place outside its reach IOC filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport u section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "IOC",
+        "tail": "Company",
+        "sentence": "Apprehending that NEPC India may remove the hypothecated aircraft (VT NEJ) from Coimbatore Airport to a place outside its reach IOC filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport u section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "Aircraft Act 1934",
+        "tail": "Statute",
+        "sentence": "Apprehending that NEPC India may remove the hypothecated aircraft (VT NEJ) from Coimbatore Airport to a place outside its reach IOC filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport u section 8 of the Aircraft Act 1934 so as to enable it to take possession thereof.",
+        "sentence_number": 34
+    },
+    {
+        "head": "The High Court",
+        "head_type": "Court",
+        "relation": "restrained",
+        "tail": "NEPC India",
+        "tail_type": "defendant",
+        "sentence": "The High Court granted an interim injunction on 1691997 restraining NEPC India from removing the aircraft (VT NEJ) from Coimbatore Airport.",
+        "sentence_number": 37
+    },
+    {
+        "head": "The High Court",
+        "head_type": "court",
+        "relation": "granted",
+        "tail": "interim injunction",
+        "tail_type": "legal claim or conflict",
+        "relation_definition": "the court issued an order to prevent the defendant from acting.",
+        "sentence": "The High Court granted an interim injunction on 1691997 restraining NEPC India from removing the aircraft (VT NEJ) from Coimbatore Airport.",
+        "sentence_number": 37
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "company",
+        "relation": "restrained from",
+        "tail": "removing the aircraft",
+        "tail_type": "criminal act",
+        "relation_definition": "the company was legally prevented from engaging in prohibited actions.",
+        "sentence": "The High Court granted an interim injunction on 1691997 restraining NEPC India from removing the aircraft (VT NEJ) from Coimbatore Airport.",
+        "sentence_number": 37
+    },
+    {
+        "head": "VT NEJ",
+        "head_type": "object",
+        "relation": "being removed",
+        "tail": "removal",
+        "tail_type": "action",
+        "relation_definition": "the court prevented the removal of this object.",
+        "sentence": "The High Court granted an interim injunction on 1691997 restraining NEPC India from removing the aircraft (VT NEJ) from Coimbatore Airport.",
+        "sentence_number": 37
+    },
+    {
+        "head": "High Court",
+        "head_type": "Government",
+        "relation": "granted an interim injunction on",
+        "tail": "NEPC India",
+        "tail_type": "defendant",
+        "relation_definition": "The court granted an order to prevent the defendant from removing the aircraft.",
+        "sentence": "The High Court granted an interim injunction on 1691997 restraining NEPC India from removing the aircraft (VT NEJ) from Coimbatore Airport.",
+        "sentence_number": 37
+    },
+    {
+        "head": "High Court",
+        "head_type": "court",
+        "relation": "granted",
+        "tail": "NEPC India",
+        "tail_type": "respondent",
+        "relation_definition": "The court granted an injunction against the respondent, NEPC India.",
+        "sentence": "The High Court granted an interim injunction on 1691997 restraining NEPC India from removing the aircraft (VT NEJ) from Coimbatore Airport.",
+        "sentence_number": 37
+    },
+    {
+        "head": "",
+        "head_type": "",
+        "relation": "",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 40
+    },
+    {
+        "head": "",
+        "head_type": "",
+        "relation": "",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "",
+        "sentence": "8.",
+        "sentence_number": 40
+    },
+    {
+        "head": "IOC",
+        "head_type": "organization",
+        "relation": "filed a suit against",
+        "tail": "hypothecated aircraft (VT NEK)",
+        "tail_type": "aircraft or asset",
+        "relation_definition": "The organization initiated legal action against the aircraft.",
+        "sentence": "In regard to the other hypothecated aircraft (VT NEK) kept at Meenambakkam (Chennai) Airport, IOC filed a suit (OS No.3327 1998) in the City Civil Court Chennai for a similar mandatory injunction.",
+        "sentence_number": 38
+    },
+    {
+        "head": "IOC",
+        "relation": "filed a suit",
+        "tail": "City Civil Court Chennai",
+        "type": "Party -> Court Official - Judge or Bench",
+        "sentence": "In regard to the other hypothecated aircraft (VT NEK) kept at Meenambakkam (Chennai) Airport IOC filed a suit (OS No.3327 1998) in the City Civil Court Chennai for a similar mandatory injunction.",
+        "sentence_number": 38
+    },
+    {
+        "head": "mandatory injunction",
+        "relation": "sought for",
+        "tail": "hypothecated aircraft (VT NEK)",
+        "type": "Provision -> Copyright Infringement",
+        "sentence": "In regard to the other hypothecated aircraft (VT NEK) kept at Meenambakkam (Chennai) Airport IOC filed a suit (OS No.3327 1998) in the City Civil Court Chennai for a similar mandatory injunction.",
+        "sentence_number": 38
+    },
+    {
+        "head": "IOC",
+        "head_type": "petitioner",
+        "relation": "filed a suit",
+        "tail": "City Civil Court Chennai",
+        "tail_type": "location",
+        "definition": "The petitioner, IOC, filed a lawsuit (suit) in the City Civil Court Chennai.",
+        "sentence": "In regard to the other hypothecated aircraft (VT NEK) kept at Meenambakkam (Chennai) Airport IOC filed a suit (OS No.3327 1998) in the City Civil Court Chennai for a similar mandatory injunction.",
+        "sentence_number": 38
+    },
+    {
+        "head": "other hypothecated aircraft (VT NEK)",
+        "head_type": "asset or property",
+        "relation": "kept at",
+        "tail": "Meenambakkam (Chennai) Airport",
+        "tail_type": "location",
+        "definition": "The aircraft were kept at the airport location.",
+        "sentence": "In regard to the other hypothecated aircraft (VT NEK) kept at Meenambakkam (Chennai) Airport IOC filed a suit (OS No.3327 1998) in the City Civil Court Chennai for a similar mandatory injunction.",
+        "sentence_number": 38
+    },
+    {
+        "head": "IOC",
+        "head_type": "plaintiff",
+        "relation": "filed complaints against",
+        "tail": "NEPC India",
+        "tail_type": "organization",
+        "relation_definition": "the plaintiff initiated legal action against the defendant organization.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section",
+        "sentence_number": 41
+    },
+    {
+        "head": "Director (respondent 2)",
+        "head_type": "defendant",
+        "relation": "filed against",
+        "tail": "NEPC India",
+        "tail_type": "organization",
+        "relation_definition": "the defendant was sued by the plaintiff in a legal complaint.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section",
+        "sentence_number": 41
+    },
+    {
+        "head": "Director (respondent 3)",
+        "head_type": "defendant",
+        "relation": "filed against",
+        "tail": "NEPC India",
+        "tail_type": "organization",
+        "relation_definition": "the defendant was sued by the plaintiff in a legal complaint.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section",
+        "sentence_number": 41
+    },
+    {
+        "head": "IOC",
+        "head_type": "company",
+        "relation": "filed complaints against",
+        "tail": "NEPC India",
+        "tail_type": "company",
+        "relation_definition": "The company, IOC, filed legal complaints against another company, NEPC India.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section.",
+        "sentence_number": 41
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "company",
+        "relation": "against whom complaints were filed",
+        "tail": "IOC",
+        "tail_type": "company",
+        "relation_definition": "Complaints were filed against this company by another company, IOC.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section.",
+        "sentence_number": 41
+    },
+    {
+        "head": "Directors",
+        "head_type": "infringer",
+        "relation": "against whom complaints were filed",
+        "tail": "IOC",
+        "tail_type": "company",
+        "relation_definition": "Complaints were filed against these individuals by the company, IOC.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section.",
+        "sentence_number": 41
+    },
+    {
+        "head": "section",
+        "head_type": "statute",
+        "relation": "under which complaints were filed",
+        "tail": "IOC",
+        "tail_type": "company",
+        "relation_definition": "Complaints were filed under a specific legal provision (section) allowing such actions.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section.",
+        "sentence_number": 41
+    },
+    {
+        "head": "IOC",
+        "head_type": "Party",
+        "relation": "filed complaints against",
+        "tail": "NEPC India and its two Directors (respondents 2 and 3 herein)",
+        "tail_type": "Party",
+        "relation_definition": "The party IOC filed legal actions against the parties NEPC India and its directors.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 and 3 herein) in July 1998 u section.",
+        "sentence_number": 41
+    },
+    {
+        "head": "IOC",
+        "head_type": "petitioner",
+        "relation": "filed complaints against",
+        "tail": "NEPC India",
+        "tail_type": "respondent",
+        "relation_definition": "the petitioner filed legal actions against the respondent.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section.",
+        "sentence_number": 41
+    },
+    {
+        "head": "July 1998",
+        "head_type": "date and time",
+        "relation": "date of filing",
+        "tail": "complaints",
+        "tail_type": "lawsuit",
+        "relation_definition": "the date when the lawsuit was filed.",
+        "sentence": "IOC filed the two complaints against NEPC India and its two Directors (respondents 2 3 herein) in July 1998 under section.",
+        "sentence_number": 41
+    },
+    {
+        "head": "CC No. 299 of 1999",
+        "head_type": "case",
+        "relation": "before",
+        "tail": "Judicial Magistrate No6 Coimbatore",
+        "tail_type": "court",
+        "relation_definition": "the case was brought before the court for adjudication.",
+        "sentence": "(i) CC No. 299 of 1999 regarding Aircraft bearing No. VT NEJ was brought before the Judicial Magistrate No6 Coimbatore.",
+        "sentence_number": 44
+    },
+    {
+        "head": "CC No. 299 of 1999",
+        "head_type": "criminal case",
+        "relation": "before",
+        "tail": "Judicial Magistrate No6 Coimbatore",
+        "tail_type": "court",
+        "relation_definition": "Criminal case was heard before the court.",
+        "sentence": "(i) CC No. 299 of 1999 was before the Judicial Magistrate No6 Coimbatore regarding Aircraft bearing No. VT NEJ.",
+        "sentence_number": 44
+    },
+    {
+        "head": "CC No. 299 of 1999",
+        "head_type": "case/preceding",
+        "relation": "before",
+        "tail": "Judicial Magistrate No6 Coimbatore",
+        "tail_type": "court official",
+        "relation_definition": "the case was handled by the judicial magistrate.",
+        "sentence": "(i) CC No. 299 of 1999 before the Judicial Magistrate No6 Coimbatore regarding Aircraft bearing No. VT NEJ.",
+        "sentence_number": 44
+    },
+    {
+        "head": "CC No. 299 of 1999",
+        "head_type": "lawsuit",
+        "relation": "before",
+        "tail": "Judicial Magistrate No6 Coimbatore",
+        "tail_type": "location",
+        "relation_definition": "The lawsuit is being handled by this court.",
+        "sentence": "(i) CC No. 299 of 1999 before the Judicial Magistrate No6 Coimbatore regarding Aircraft bearing No. VT NEJ.",
+        "sentence_number": 44
+    },
+    {
+        "head": "Code of Criminal Procedure",
+        "head_type": "statute",
+        "relation": "alleging",
+        "tail": "unauthorized removal of the engines and certain other parts from the two hypothecated aircraft",
+        "tail_type": "criminal act",
+        "relation_definition": "the statute is alleging a criminal act involving unauthorized removal of engines and parts from aircraft.",
+        "sentence": "200 of Code of Criminal Procedure alleging unauthorized removal of the engines and certain other parts from the two hypothecated aircraft.",
+        "sentence_number": 42
+    },
+    {
+        "head": "Code of Criminal Procedure",
+        "head_type": "Government",
+        "relation": "alleging",
+        "tail": "unauthorized removal",
+        "tail_type": "Penalty",
+        "relation_definition": "The Government entity is alleging unauthorized removal, which constitutes a Penalty.",
+        "sentence": "200 of Code of Criminal Procedure alleging unauthorized removal of engines and certain other parts from the two hypothecated aircraft.",
+        "sentence_number": 42
+    },
+    {
+        "head": "Code of Criminal Procedure",
+        "type": "Lawsuit",
+        "relation": "alleging unauthorized removal of engines and certain other parts from the two hypothecated aircraft",
+        "tail": "unauthorized removal",
+        "sentence": "200 of Code of Criminal Procedure alleging unauthorized removal of the engines and certain other parts from the two hypothecated aircraft.",
+        "sentence_number": 42
+    },
+    {
+        "head": "CC No. 286 of 1998",
+        "head_type": "Case",
+        "relation": "before",
+        "tail": "Judicial Magistrate Alandur (Chennai)",
+        "tail_type": "Court",
+        "relation_definition": "The case was filed before the court.",
+        "sentence": "(ii) CC No. 286 of 1998 before the Judicial Magistrate Alandur (Chennai) regarding aircraft bearing No. VT NEK.",
+        "sentence_number": 45
+    },
+    {
+        "head": "aircraft bearing No. VT NEK",
+        "head_type": "Infringer",
+        "relation": "regarding",
+        "tail": "CC No. 286 of 1998",
+        "tail_type": "Copyright or Trademark Rights/Dispute",
+        "sentence": "(ii) CC No. 286 of 1998 before the Judicial Magistrate Alandur (Chennai) regarding aircraft bearing No. VT NEK.",
+        "sentence_number": 45
+    },
+    {
+        "head": "CC No. 286 of 1998",
+        "head_type": "government",
+        "relation": "before",
+        "tail": "Judicial Magistrate Alandur (Chennai)",
+        "tail_type": "court official - judge or bench",
+        "relation_definition": "The case number was handled by the judicial magistrate.",
+        "sentence": "(ii) CC No. 286 of 1998 before the Judicial Magistrate Alandur (Chennai) regarding aircraft bearing No. VT NEK.",
+        "sentence_number": "45"
+    },
+    {
+        "head": "aircraft bearing No. VT NEK",
+        "head_type": "copyright infringement",
+        "relation": "regarding",
+        "tail": "Judicial Magistrate Alandur (Chennai)",
+        "tail_type": "court official - judge or bench",
+        "relation_definition": "The legal matter pertained to the aircraft.",
+        "sentence": "(ii) CC No. 286 of 1998 before the Judicial Magistrate Alandur (Chennai) regarding aircraft bearing No. VT NEK.",
+        "sentence_number": "45"
+    },
+    {
+        "head": "CC No. 286 of 1998",
+        "head_type": "lawsuit",
+        "relation": "before",
+        "tail": "Judicial Magistrate Alandur (Chennai)",
+        "tail_type": "location",
+        "relation_definition": "The lawsuit was brought before the judicial magistrate at Alandur, Chennai.",
+        "sentence": "(ii) CC No. 286 of 1998 regarding aircraft bearing No. VT NEK was brought before the Judicial Magistrate Alandur (Chennai).",
+        "sentence_number": 45
+    },
+    {
+        "head": "aircraft bearing No. VT NEK",
+        "head_type": "dispute",
+        "relation": "regarding",
+        "tail": "Judicial Magistrate Alandur (Chennai)",
+        "tail_type": "location",
+        "relation_definition": "The dispute regarding the aircraft was handled by the Judicial Magistrate at Alandur, Chennai.",
+        "sentence": "(ii) CC No. 286 of 1998 regarding aircraft bearing No. VT NEK was brought before the Judicial Magistrate Alandur (Chennai).",
+        "sentence_number": 45
+    },
+    {
+        "head": "Coimbatore Court",
+        "type": "court",
+        "relation": "in CC No.299 1999",
+        "tail": "CC No.299 1999",
+        "type_tail": "case",
+        "sentence": "The relevant averments in the complaint in CC No.299 1999 (Coimbatore Court) reads as under",
+        "sentence_number": 48
+    },
+    {
+        "head": "Relevant averments",
+        "head_type": "Evidence",
+        "relation": "in",
+        "tail": "complaint",
+        "tail_type": "Legal Document",
+        "relation_definition": "Averments are evidence presented in the complaint.",
+        "sentence": "The relevant averments in the complaint... reads as under.",
+        "sentence_number": 48
+    },
+    {
+        "head": "complaint",
+        "head_type": "Legal Document",
+        "relation": "filed under",
+        "tail": "CC No.299 1999 (Coimbatore Court)",
+        "tail_type": "Criminal Act",
+        "relation_definition": "The complaint was filed as part of a criminal act case.",
+        "sentence": "The relevant averments in the complaint... reads as under.",
+        "sentence_number": 48
+    },
+    {
+        "head": "complaint",
+        "head_type": "Party",
+        "relation": "related to",
+        "tail": "CC No.299 1999",
+        "tail_type": "Case Number",
+        "relation_definition": "The complaint relates to the case number CC No.299 1999.",
+        "sentence": "The relevant averments in the complaint in CC No.299 1999 (Coimbatore Court) reads as under.",
+        "sentence_number": 48
+    },
+    {
+        "head": "CC No.299 1999",
+        "head_type": "Case Number",
+        "relation": "related to",
+        "tail": "Coimbatore Court",
+        "tail_type": "Court Official - Judge or Bench",
+        "relation_definition": "The case number CC No.299 1999 is related to the Coimbatore Court, which has jurisdiction over it.",
+        "sentence": "The relevant averments in the complaint in CC No.299 1999 (Coimbatore Court) reads as under.",
+        "sentence_number": 48
+    },
+    {
+        "head": "complaint",
+        "head_type": "dispute",
+        "relation": "read under",
+        "tail": "CC No.299 1999",
+        "tail_type": "case_number",
+        "relation_definition": "The complaint details are provided under the case number CC No.299 1999.",
+        "sentence": "The relevant averments in the complaint in CC No.299 1999 (Coimbatore Court) reads as under.",
+        "sentence_number": 48
+    },
+    {
+        "head": "CC No.299 1999",
+        "head_type": "date and time",
+        "relation": "filed on",
+        "tail": "complaint",
+        "tail_type": "lawsuit",
+        "relation_definition": "The complaint was filed on this case number.",
+        "sentence": "The relevant averments in the complaint in CC No.299 1999 (Coimbatore Court) reads as under.",
+        "sentence_number": 48
+    },
+    {
+        "head": "Coimbatore Court",
+        "head_type": "location",
+        "relation": "located in",
+        "tail": "complaint",
+        "tail_type": "court",
+        "relation_definition": "The complaint was located in this court.",
+        "sentence": "The relevant averments in the complaint in CC No.299 1999 (Coimbatore Court) reads as under.",
+        "sentence_number": 48
+    },
+    {
+        "head": "The complainant",
+        "head_type": "plaintiff",
+        "relation": "stated that",
+        "tail": "NEPC India Limited in total disregard to the orders of the Hon.",
+        "sentence": "The complainant states that on 24498 IOC had come to know that NEPC India Limited in total disregard to the orders of the Hon.",
+        "sentence_number": 49
+    },
+    {
+        "head": "complainant",
+        "head_type": "complainant",
+        "relation": "provided evidence that",
+        "tail": "IOC had come to know",
+        "tail_type": "evidence",
+        "relation_definition": "the complainant provided evidence that IOC had knowledge of the situation.",
+        "sentence": "The complainant states that on 24498 IOC had come to know that NEPC India Limited in total disregard to the orders of the Hon.",
+        "sentence_number": 49
+    },
+    {
+        "head": "NEPC India Limited",
+        "head_type": "company",
+        "relation": "disregard to the orders of",
+        "tail": "Hon.",
+        "tail_type": "statute",
+        "relation_definition": "the company disregarded legal orders, which could be a violation of statute.",
+        "sentence": "The complainant states that on 24498 IOC had come to know that NEPC India Limited in total disregard to the orders of the Hon.",
+        "sentence_number": 49
+    },
+    {
+        "head": "complainant",
+        "head_type": "Party",
+        "relation": "states that",
+        "tail": "NEPC India Limited",
+        "tail_type": "Party",
+        "relation_definition": "The complainant is stating information about the party, NEPC India Limited.",
+        "sentence": "The complainant states that on 24498 IOC had come to know that NEPC India Limited in total disregard to the orders of the Hon.",
+        "sentence_number": 49
+    },
+    {
+        "head": "complainant",
+        "head_type": "Party",
+        "relation": "informed by",
+        "tail": "IOC",
+        "tail_type": "Government",
+        "relation_definition": "The complainant was informed by an entity related to the government.",
+        "sentence": "The complainant states that on 24498 IOC had come to know that NEPC India Limited in total disregard to the orders of the Hon.",
+        "sentence_number": 49
+    },
+    {
+        "head": "NEPC India Limited",
+        "head_type": "Party",
+        "relation": "disregarded orders from",
+        "tail": "Hon.",
+        "tail_type": "Court Official",
+        "relation_definition": "The party, NEPC India Limited, disregarded court orders from the court official.",
+        "sentence": "The complainant states that on 24498 IOC had come to know that NEPC India Limited in total disregard to the orders of the Hon.",
+        "sentence_number": 49
+    },
+    {
+        "head": "High Court Madras",
+        "head_type": "court",
+        "relation": "had removed",
+        "tail": "both the engines and certain other parts from the Aircraft VT NEJ Aircraft Sl.No.",
+        "tail_type": "object",
+        "relation_definition": "The court had removed parts from the aircraft.",
+        "sentence": "High Court Madras had clandestinely removed both the engines and certain other parts from the Aircraft VT NEJ Aircraft Sl.No.",
+        "sentence_number": 50
+    },
+    {
+        "head": "High Court Madras",
+        "head_type": "Government",
+        "relation": "had removed",
+        "tail": "Aircraft VT NEJ Aircraft Sl.No.",
+        "tail_type": "aircraft",
+        "relation_definition": "The Government entity, High Court Madras, had removed parts from the aircraft.",
+        "sentence": "High Court Madras had clandestinely removed both the engines and certain other parts from the Aircraft VT NEJ Aircraft Sl.No.",
+        "sentence_number": 50
+    },
+    {
+        "head": "IOC",
+        "head_type": "Company",
+        "relation": "was not given notice",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "",
+        "sentence": "No notice was given to IOC in this regard.",
+        "sentence_number": 54
+    },
+    {
+        "head": "complainant",
+        "head_type": "plaintiff",
+        "relation": "filed complaint against",
+        "tail": "NEPC India Limited",
+        "tail_type": "organization",
+        "relation_definition": "The complainant filed a complaint against the organization.",
+        "sentence": "The complainant states that besides the above the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT NEJ Aircraft Sl.",
+        "sentence_number": 52
+    },
+    {
+        "head": "NEPC India Limited",
+        "head_type": "Company",
+        "relation": "acted in",
+        "tail": "removing engines and certain other parts from the Aircraft VT NEJ Aircraft Sl.",
+        "tail_type": "Criminal Act",
+        "relation_definition": "The company, NEPC India Limited, acted in a manner that constitutes a criminal act by removing engines and parts from the aircraft.",
+        "sentence": "The complainant states that besides the above, the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT NEJ Aircraft Sl. constitutes a criminal act.",
+        "sentence_number": 52
+    },
+    {
+        "head": "No. 10684 (Fokker F27 500)",
+        "head_type": "company",
+        "relation": "against",
+        "tail": "hypothecation deed dated 0151997 and 2091997",
+        "tail_type": "document",
+        "relation_definition": "The company's actions were against the terms of the hypothecation deed.",
+        "sentence": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft criminal breach of trust and cheating which are offences punishable u section 378 (Theft) 403 (Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the Indian Penal Code.",
+        "sentence_number": "53"
+    },
+    {
+        "head": "the Indian Penal Code",
+        "head_type": "statute",
+        "relation": "punishable under",
+        "tail": "Criminal Act",
+        "tail_type": "criminal act",
+        "relation_definition": "The criminal acts are punishable under the statute of the Indian Penal Code.",
+        "sentence": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft criminal breach of trust and cheating which are offences punishable u section 378 (Theft) 403 (Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the Indian Penal Code.",
+        "sentence_number": "53"
+    },
+    {
+        "head": "Fokker F27 500 (No. 10684)",
+        "type": null,
+        "relation": "is against",
+        "tail": "hypothecation deed",
+        "other_info": null,
+        "penalty": null,
+        "sentence": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport Coimbatore is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft criminal breach of trust and cheating which are offences punishable u section 378 (Theft) 403 (Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the Indian Penal Code.",
+        "sentence_number": 53
+    },
+    {
+        "head": "hypothecation deed",
+        "type": "Provision",
+        "relation": "will result in",
+        "tail": "section 378 of IPC",
+        "other_info": "Theft as an offence",
+        "penalty": "Penalty for theft under section 378 of IPC",
+        "sentence": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport Coimbatore is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft criminal breach of trust and cheating which are offences punishable u section 378 (Theft) 403 (Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the Indian Penal Code.",
+        "sentence_number": 53
+    },
+    {
+        "head": "hypothecation deed",
+        "type": "Provision",
+        "relation": "will result in",
+        "tail": "section 403 of IPC",
+        "other_info": "Criminal breach of trust as an offence",
+        "penalty": "Penalty for criminal breach of trust under section 403 of IPC",
+        "sentence": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport Coimbatore is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft criminal breach of trust and cheating which are offences punishable u section 378 (Theft) 403 (Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the Indian Penal Code.",
+        "sentence_number": 53
+    },
+    {
+        "head": "hypothecation deed",
+        "type": "Provision",
+        "relation": "will result in",
+        "tail": "section 420 of IPC",
+        "other_info": "Cheating as an offence",
+        "penalty": "Penalty for cheating under section 420 of IPC",
+        "sentence": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport Coimbatore is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft criminal breach of trust and cheating which are offences punishable u section 378 (Theft) 403 (Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the Indian Penal Code.",
+        "sentence_number": 53
+    },
+    {
+        "head": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport Coimbatore",
+        "head_type": "Location",
+        "relation": "is against",
+        "tail": "hypothecation deed dated 0151997 and 2091997",
+        "tail_type": "legal document",
+        "sentence": "No. 10684 (Fokker F27 500) stationed at the Coimbatore Airport Coimbatore is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft criminal breach of trust and cheating which are offences punishable u section 378 (Theft) 403 (Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the Indian Penal Code.",
+        "sentence_number": 53
+    },
+    {
+        "head": "hypothecation deed",
+        "head_type": "contract",
+        "relation": "is against",
+        "tail": "offences punishable u section 378 (Theft) 403(Dishonest Mispropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the India Penal Code.",
+        "tail_type": "criminal act",
+        "definition": "Breach of the hypothecation deed will lead to the mentioned offences.",
+        "sentence": "No. 10687 (Fokker F27 500) stationed at the Meenabakkam Airport Chennai is against the terms of the hypothecation deed dated 151997 as well as the terms of the agreement dated 2091997 and will amount to offences punishable u section 378 (Theft) 403(Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the India Penal Code.",
+        "sentence_number": 60
+    },
+    {
+        "head": "agreement",
+        "head_type": "contract",
+        "relation": "is against",
+        "tail": "offences punishable u section 378 (Theft) 403(Dishonest Mispropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the India Penal Code.",
+        "tail_type": "criminal act",
+        "definition": "Breach of the agreement will lead to the mentioned offences.",
+        "sentence": "No. 10687 (Fokker F27 500) stationed at the Meenabakkam Airport Chennai is against the terms of the hypothecation deed dated 151997 as well as the terms of the agreement dated 2091997 and will amount to offences punishable u section 378 (Theft) 403(Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the India Penal Code.",
+        "sentence_number": 60
+    },
+    {
+        "head": "No. 10687 (Fokker F27 500)",
+        "head_type": "",
+        "relation": "is against",
+        "tail": "terms of the hypothecation deed dated 151997",
+        "tail_type": "document",
+        "relation_definition": "the aircraft is against the terms of the hypothecation deed.",
+        "sentence": "No. 10687 (Fokker F27 500) stationed at the Meenabakkam Airport Chennai is against the terms of the hypothecation deed dated 151997 as well as the terms of the agreement dated 2091997 and will amount to offences punishable u section 378 (Theft) 403(Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the India Penal Code.",
+        "sentence_number": 60
+    },
+    {
+        "head": "terms of the agreement dated 2091997",
+        "head_type": "agreement",
+        "relation": "is against",
+        "tail": "No. 10687 (Fokker F27 500)",
+        "tail_type": "aircraft",
+        "relation_definition": "the terms of the agreement are against the aircraft.",
+        "sentence": "No. 10687 (Fokker F27 500) stationed at the Meenabakkam Airport Chennai is against the terms of the hypothecation deed dated 151997 as well as the terms of the agreement dated 2091997 and will amount to offences punishable u section 378 (Theft) 403(Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the India Penal Code.",
+        "sentence_number": 60
+    },
+    {
+        "head": "offences punishable u section 378 (Theft) 403(Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief)",
+        "head_type": "offence",
+        "relation": "will amount to",
+        "tail": "Government",
+        "tail_type": "government",
+        "relation_definition": "the situation will amount to offences defined under the India Penal Code by the Government.",
+        "sentence": "No. 10687 (Fokker F27 500) stationed at the Meenabakkam Airport Chennai is against the terms of the hypothecation deed dated 151997 as well as the terms of the agreement dated 2091997 and will amount to offences punishable u section 378 (Theft) 403(Dishonest Misappropriation of Property) 405 (Criminal Breach of Trust) 415 (Cheating) 425 (Mischief) of the India Penal Code.",
+        "sentence_number": 60
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "organization",
+        "relation": "defeated the right of",
+        "tail": "IOC",
+        "tail_type": "organization",
+        "relation_definition": "The organization took action to defeat the right of IOC over the aircraft.",
+        "sentence": "With a view to defeat the said right of IOC, NEPC India removed the engines of the Aircraft (VT NEK) stationed at the Meenambakkam Airport.",
+        "sentence_number": 58
+    },
+    {
+        "head": "IOC",
+        "head_type": "company",
+        "relation": "defeated by removing engines",
+        "tail": "NEPC India",
+        "tail_type": "infringer",
+        "relation_definition": "IOC's right to possession and sale of the aircraft was defeated by NEPC India removing its engines.",
+        "sentence": "With a view to defeat the said right of IOC (that is right to take possession and sell the aircraft) NEPC India removed the engines of the Aircraft (VT NEK) stationed at the Meenambakkam Airport.",
+        "sentence_number": 58
+    },
+    {
+        "head": "IOC",
+        "head_type": "company",
+        "relation": "action violated contractual obligations",
+        "tail": "NEPC India",
+        "tail_type": "infringer",
+        "relation_definition": "IOC's right to possession and sale of the aircraft was violated by NEPC India removing its engines.",
+        "sentence": "With a view to defeat the said right of IOC (that is right to take possession and sell the aircraft) NEPC India removed the engines of the Aircraft (VT NEK) stationed at the Meenambakkam Airport.",
+        "sentence_number": 58
+    },
+    {
+        "head": "NEPC India",
+        "head_type": "Government",
+        "relation": "defeated the said right of",
+        "tail": "IOC",
+        "tail_type": "Party",
+        "relation_definition": "NEPC India acted to prevent IOC from exercising its right to possession and sale.",
+        "sentence": "With a view to defeat the said right of IOC, NEPC India removed the engines of the Aircraft (VT NEK) stationed at the Meenambakkam Airport.",
+        "sentence_number": 58
+    },
+    {
+        "head": "IOC",
+        "head_type": "Company",
+        "relation": "No notice was given to",
+        "tail": "IOC",
+        "tail_type": "Company",
+        "relation_definition": "Notice was not provided to the organization, IOC.",
+        "sentence": "No notice was given to IOC in this regard.",
+        "sentence_number": 61
+    },
+    {
+        "head": "IOC",
+        "tail_type": "respondent",
+        "relation": "no notice given",
+        "sentence": "No notice was given to IOC in this regard.",
+        "sentence_number": 61
+    },
+    {
+        "head": "complaint",
+        "head_type": "complaint",
+        "relation": "in",
+        "tail": "Alandur Court",
+        "tail_type": "court",
+        "relation_definition": "the complaint was filed in this court",
+        "sentence": "The relevant averments in the complaint, CC No.286 1998 (Alandur Court), read as under.",
+        "sentence_number": 57
+    },
+    {
+        "head": "complaint",
+        "head_type": "Evidence",
+        "relation": "relates_to",
+        "tail": "CC No.286 1998 (Alandur Court)",
+        "tail_type": "Criminal Act",
+        "sentence": "The relevant averments in the complaint in CC No.286 1998 (Alandur Court) read as under",
+        "sentence_number": 57
+    },
+    {
+        "head": "Complaint",
+        "head_type": "Party",
+        "relation": "relates to",
+        "tail": "CC No.286 1998",
+        "tail_type": "Criminal Case",
+        "definition": "The complaint relates to the criminal case CC No.286 1998.",
+        "sentence": "The relevant averments in the complaint in CC No.286 1998 (Alandur Court) read as under.",
+        "sentence_number": "57"
+    },
+    {
+        "head": "Alandur Court",
+        "head_type": "Government",
+        "relation": "has jurisdiction over",
+        "tail": "CC No.286 1998",
+        "tail_type": "Criminal Case",
+        "definition": "The Alandur Court has jurisdiction over the criminal case CC No.286 1998.",
+        "sentence": "The relevant averments in the complaint in CC No.286 1998 (Alandur Court) read as under.",
+        "sentence_number": "57"
+    },
+    {
+        "head": "complaint",
+        "head_type": "Dispute",
+        "relation": "in",
+        "tail": "CC No.286 1998",
+        "tail_type": "Case Citation",
+        "relation_definition": "The complaint is in the context of this case.",
+        "sentence": "The relevant averments in the complaint in CC No.286 1998 (Alandur Court) read as under",
+        "sentence_number": 57
+    },
+    {
+        "head": "The complainant",
+        "head_type": "plaintiff",
+        "relation": "states that the act of NEPC India Limited",
+        "tail": "NEPC India Limited",
+        "tail_type": "organization",
+        "relation_definition": "the plaintiff states that the organization committed an act which led to legal action.",
+        "sentence": "The complainant, as the plaintiff, states that the act of NEPC India Limited in removing engines and certain other parts from the Aircraft VT NEK Aircraft Sl. led to legal proceedings.",
+        "sentence_number": 59
+    },
+    {
+        "head": "Complainant",
+        "relation": "filed a complaint against",
+        "tail": "NEPC India Limited",
+        "sentence": "The complainant states that the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT NEK Aircraft Sl.",
+        "sentence_number": 59
+    },
+    {
+        "head": "NEPC India Limited",
+        "head_type": "Company",
+        "relation": "committed Criminal Act by removing engines and certain other parts from the Aircraft VT NEK Aircraft Sl.",
+        "tail": "Criminal Act",
+        "tail_type": "Criminal Act",
+        "sentence": "The complainant states that the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT NEK Aircraft Sl.",
+        "sentence_number": 59
+    },
+    {
+        "head": "Complainant",
+        "relation": "accuses",
+        "tail": "NEPC India Limited",
+        "type": "Party",
+        "head_type": "Party",
+        "tail_type": "Accused",
+        "sentence": "The complainant states that the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT NEK Aircraft Sl.",
+        "sentence_number": 59
+    },
+    {
+        "head": "Aircraft VT NEK",
+        "relation": "is subject to",
+        "tail": "Copyright Infringement",
+        "type": "Copyright Infringement",
+        "head_type": "Asset",
+        "tail_type": "Legal Issue",
+        "sentence": "The complainant states that the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT NEK Aircraft Sl.",
+        "sentence_number": 59
+    },
+    {
+        "head": "Both the complaints",
+        "head_type": "Lawsuit",
+        "relation": "contain",
+        "tail": "common allegations",
+        "tail_type": "Argument",
+        "definition": "The lawsuits contain common arguments.",
+        "sentence": "Both the complaints also contain the following common allegations",
+        "sentence_number": 62
+    },
+    {
+        "head": "The complainant",
+        "head_type": "plaintiff",
+        "relation": "filed complaint against",
+        "tail": "accused",
+        "tail_type": "suspect",
+        "relation_definition": "the plaintiff filed a complaint against the suspect for fraudulent actions.",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC, which induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 63
+    },
+    {
+        "head": "accused",
+        "head_type": "defendant",
+        "relation": "had induced",
+        "tail": "IOC",
+        "tail_type": "organization",
+        "relation_definition": "the defendant had fraudulently induced the organization to resume supply of Aircraft fuel on Cash and Carry basis.",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC, which induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 63
+    },
+    {
+        "head": "The accused",
+        "head_type": "Criminal_Act",
+        "relation": "had with fraudulent intention to cheat and defraud",
+        "tail": "IOC",
+        "tail_type": "Company",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 63
+    },
+    {
+        "head": "complainant",
+        "head_type": "Party",
+        "relation": "states",
+        "tail": "accused",
+        "tail_type": "Accused",
+        "definition": "The complainant asserts that the accused intended to cheat or defraud the party.",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 63
+    },
+    {
+        "head": "accused",
+        "head_type": "Accused",
+        "relation": "had with fraudulent intention to cheat and defraud",
+        "tail": "IOC",
+        "tail_type": "Party",
+        "definition": "The accused intended to commit fraud against the party (IOC).",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 63
+    },
+    {
+        "head": "accused",
+        "head_type": "Accused",
+        "relation": "induced",
+        "tail": "IOC",
+        "tail_type": "Party",
+        "definition": "The accused induced the party (IOC) to resume aircraft fuel supply on a cash and carry basis.",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 63
+    },
+    {
+        "head": "hypothecation agreements",
+        "head_type": "Provision",
+        "relation": "related",
+        "tail": "Rs18 crores and the time stipulated",
+        "tail_type": "Monetary and Time",
+        "definition": "The agreements are related to clearing Rs18 crores within the specified timeframe.",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 63
+    },
+    {
+        "head": "The complainant",
+        "head_type": "petitioner",
+        "relation": "had with fraudulent intention to cheat and defraud",
+        "tail": "the accused",
+        "tail_type": "respondent",
+        "relation_definition": "The petitioner alleged that the respondent had fraudulently induced the IOC.",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 3
+    },
+    {
+        "head": "IOC",
+        "head_type": "dispute",
+        "relation": "had induced",
+        "tail": "the accused",
+        "tail_type": "respondent",
+        "relation_definition": "IOC was fraudulently induced by the respondent.",
+        "sentence": "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.",
+        "sentence_number": 3
+    },
+    {
+        "head": "the accused",
+        "head_type": "suspect",
+        "relation": "had failed to clear the said outstanding amounts and had breached the terms of the hypothecation agreements.",
+        "tail": "hypothecation agreements",
+        "tail_type": "organization",
+        "sentence": "However the accused had failed to clear the said outstanding amounts and had breached the terms of the hypothecation agreements.",
+        "sentence_number": 64
+    },
+    {
+        "head": "the accused",
+        "head_type": "Criminal Act",
+        "relation": "breached",
+        "tail": "terms of the hypothecation agreements",
+        "tail_type": "Contract",
+        "definition": "The accused violated contractual obligations by failing to clear outstanding amounts.",
+        "sentence": "However the accused had failed to clear the said outstanding amounts and had breached the terms of the hypothecation agreements.",
+        "sentence_number": 64
+    },
+    {
+        "head": "accused",
+        "head_type": "Accused",
+        "relation": "breached",
+        "tail": "hypothecation agreements",
+        "tail_type": "Party",
+        "relation_definition": "The accused violated the terms of the agreement.",
+        "sentence_number": 64,
+        "sentence": "However the accused had failed to clear the said outstanding amounts and had breached the terms of the hypothecation agreements."
+    },
+    {
+        "head": "NEPC India Limited",
+        "head_type": "organization",
+        "relation": "had failed to keep up",
+        "tail": "schedule of payments mentioned in the said agreements",
+        "tail_type": "contractual obligation",
+        "relation_definition": "The organization failed to meet its contractual payment obligations.",
+        "sentence": "However, NEPC India Limited had failed to keep up the schedule of payments mentioned in the said agreements.",
+        "sentence_number": 67
+    },
+    {
+        "head": "NEPC India Limited",
+        "head_type": "Company",
+        "relation": "failed to keep up",
+        "tail": "schedule of payments mentioned in the said agreements",
+        "tail_type": "Contract",
+        "relation_definition": "The company failed to adhere to the payment schedule outlined in the contracts.",
+        "sentence": "However, NEPC India Limited had failed to keep up the schedule of payments mentioned in the said agreements.",
+        "sentence_number": 67
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "organization",
+        "relation": "failed to keep up",
+        "tail": "schedule of payments mentioned in the said agreements",
+        "tail_type": "provision",
+        "relation_definition": "the organization failed to comply with the payment schedule outlined in the agreements.",
+        "sentence": "However, M section NEPC India Limited had failed to keep up the schedule of payments mentioned in the said agreements.",
+        "sentence_number": 67
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "organization",
+        "relation": "had failed to keep up",
+        "tail": "schedule of payments mentioned in the said agreements",
+        "tail_type": "dispute",
+        "relation_definition": "The organization had failed to meet the payment schedule under the agreements, indicating a potential dispute.",
+        "sentence": "However, M section NEPC India Limited had failed to keep up the schedule of payments mentioned in the said agreements.",
+        "sentence_number": 67
+    },
+    {
+        "Head": "IOC M section NEPC India",
+        "Head_type": "Company",
+        "Relation": "has removed",
+        "Tail": "engines of the aircraft",
+        "Tail_type": "Infringer",
+        "Relation_definition": "The company has removed engines to infringe upon another's right.",
+        "sentence": "Only with a view to defeat the said right of IOC M section NEPC India has removed the engines of the aircraft.",
+        "sentence_number": 69
+    },
+    {
+        "head": "IOC",
+        "head_type": "organization",
+        "relation": "entered into agreement with",
+        "tail": "M section NEPC India Limited",
+        "tail_type": "organization",
+        "relation_definition": "an organization entered into an agreement with another organization.",
+        "sentence": "Subsequently on 2092007 an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "organization",
+        "relation": "agreement was entered into between",
+        "tail": "IOC",
+        "tail_type": "organization",
+        "relation_definition": "an organization was involved in an agreement with another organization.",
+        "sentence": "Subsequently on 2092007 an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "IOC",
+        "head_type": "Company",
+        "relation": "entered into",
+        "tail": "M section NEPC India Limited",
+        "tail_type": "Company",
+        "relation_definition": "The company entered into an agreement with another company.",
+        "sentence": "Subsequently on 2092007, an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "Company",
+        "relation": "entered into by",
+        "tail": "IOC",
+        "tail_type": "Company",
+        "relation_definition": "This company entered into an agreement with another company.",
+        "sentence": "Subsequently on 2092007, an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "IOC",
+        "head_type": "organization",
+        "relation": "entered into an agreement with",
+        "tail": "M section NEPC India Limited",
+        "tail_type": "organization",
+        "relation_definition": "IOC entered into an agreement with M section NEPC India Limited.",
+        "sentence": "Subsequently, on 2092007, an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "2092007",
+        "head_type": "date and time",
+        "sentence": "Subsequently on 2092007 an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "IOC",
+        "head_type": "organization",
+        "relation": "entered into agreement with",
+        "tail": "M section NEPC India Limited",
+        "tail_type": "organization",
+        "sentence": "Subsequently on 2092007 an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "organization",
+        "relation": "entered into agreement with",
+        "tail": "IOC",
+        "tail_type": "organization",
+        "sentence": "Subsequently on 2092007 an agreement was entered into between IOC and M section NEPC India Limited.",
+        "sentence_number": 65
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "organization",
+        "relation": "had agreed to clear the outstanding amount of Rs18 crores approximately due to IOC",
+        "tail": "Rs18 crores approximately",
+        "tail_type": "amount",
+        "relation_definition": "The organization has agreed to pay this amount.",
+        "sentence": "As per the terms of the above agreement M section NEPC India Limited had agreed to clear the outstanding amount of Rs18 crores approximately due to IOC from M section NEPC India Limited and M section Skyline NEPC Limited within a time frame.",
+        "sentence_number": 66
+    },
+    {
+        "head": "M section Skyline NEPC Limited",
+        "head_type": "organization",
+        "relation": "had agreed to clear the outstanding amount of Rs18 crores approximately due to IOC",
+        "tail": "Rs18 crores approximately",
+        "tail_type": "amount",
+        "relation_definition": "The organization has agreed to pay this amount.",
+        "sentence": "As per the terms of the above agreement M section NEPC India Limited had agreed to clear the outstanding amount of Rs18 crores approximately due to IOC from M section NEPC India Limited and M section Skyline NEPC Limited within a time frame.",
+        "sentence_number": 66
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "Company",
+        "relation": "agreed to clear the outstanding amount of Rs18 crores approximately due to IOC from M section Skyline NEPC Limited within a time frame",
+        "tail": "M section Skyline NEPC Limited",
+        "tail_type": "Company",
+        "sentence": "As per the terms of the above agreement M section NEPC India Limited had agreed to clear the outstanding amount of Rs18 crores approximately due to IOC from M section NEPC India Limited and M section Skyline NEPC Limited within a time frame.",
+        "sentence_number": 66
+    },
+    {
+        "head": "M section NEPC India Limited",
+        "head_type": "Party",
+        "relation": "had agreed to clear",
+        "tail": "Rs18 crores approximately due from M section NEPC India Limited",
+        "tail_type": "amount owed",
+        "relation_definition": "The party, M section NEPC India Limited, had agreed to settle the debt amount.",
+        "sentence": "As per the terms of the above agreement, M section NEPC India Limited had agreed to clear the outstanding amount of Rs18 crores approximately due from M section NEPC India Limited and M section Skyline NEPC Limited within a time frame.",
+        "sentence_number": 66
+    },
+    {
+        "head": "IOC",
+        "head_type": "Company",
+        "relation": "has got every right to take possession of",
+        "tail": "Aircraft VT NEK as well as VT NEJ",
+        "tail_type": "Asset/Property",
+        "relation_definition": "IOC has the legal authority to possess the aircraft.",
+        "sentence": "The facts narrated above will clearly show that IOC has got every right to take possession of the Aircraft VT NEK as well as VT NEJ.",
+        "sentence_number": 68
+    },
+    {
+        "head": "IOC",
+        "head_type": "Party",
+        "relation": "has got every right to take possession of",
+        "tail": "VT NEK",
+        "tail_type": "Aircraft",
+        "relation_definition": "IOC has the legal right to possess VT NEK.",
+        "sentence": "The facts narrated above will clearly show that IOC has got every right to take possession of the Aircraft VT NEK as well as VT NEJ.",
+        "sentence_number": 68
+    },
+    {
+        "head": "IOC",
+        "head_type": "Party",
+        "relation": "has got every right to take possession of",
+        "tail": "VT NEJ",
+        "tail_type": "Aircraft",
+        "relation_definition": "IOC has the legal right to possess VT NEJ.",
+        "sentence": "The facts narrated above will clearly show that IOC has got every right to take possession of the Aircraft VT NEK as well as VT NEJ.",
+        "sentence_number": 68
+    },
+    {
+        "head": "Mr. A. Kumar",
+        "head_type": "plaintiff",
+        "relation": "filed lawsuit against",
+        "tail": "Acme Corporation",
+        "tail_type": "defendant",
+        "relation_definition": "plaintiff initiated legal action against the defendant.",
+        "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.",
+        "sentence_number": 70
+    },
+    {
+        "head": "12 March 2023",
+        "head_type": "date and time",
+        "relation": "date of filing",
+        "tail": "lawsuit",
+        "tail_type": "lawsuit",
+        "relation_definition": "The date on which the lawsuit was filed.",
+        "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.",
+        "sentence_number": 70
+    },
+    {
+        "head": "Delhi High Court",
+        "head_type": "location",
+        "relation": "filed in",
+        "tail": "Acme Corporation",
+        "tail_type": "defendant",
+        "relation_definition": "The court where the lawsuit was filed against the defendant.",
+        "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.",
+        "sentence_number": 70
+    },
+    {
+        "head": "The respondents herein",
+        "head_type": "defendant",
+        "relation": "filed Crl.",
+        "tail": "Crl.",
+        "tail_type": "case",
+        "relation_definition": "The defendants (respondents) filed a case (Crl.).",
+        "sentence": "The respondents herein filed Crl.",
+        "sentence_number": 73
+    },
+    {
+        "head": "Crl.",
+        "head_type": "case",
+        "relation": "filed by",
+        "tail": "The respondents herein",
+        "tail_type": "defendant",
+        "relation_definition": "A case (Crl.) was filed by the defendant(s).",
+        "sentence": "The respondents herein filed Crl.",
+        "sentence_number": 73
+    },
+    {
+        "head": "respondents",
+        "head_type": "Company",
+        "relation": "filed",
+        "tail": "Crl.",
+        "tail_type": "Criminal Act",
+        "relation_definition": "The respondents filed a criminal action.",
+        "sentence": "The respondents herein filed Crl.",
+        "sentence_number": 73
+    },
+    {
+        "head": "respondents",
+        "head_type": "respondent",
+        "relation": "filed",
+        "tail": "Crl",
+        "tail_type": "criminal case",
+        "relation_definition": "the respondents initiated legal action against the criminal case.",
+        "sentence": "The respondents herein filed Crl.",
+        "sentence_number": 73
+    },
+    {
+        "head": "OP No1563 of 2000",
+        "head_type": "Legal Case/Proceeding",
+        "relation": "filed under",
+        "tail": "section",
+        "tail_type": "statute",
+        "definition": "This legal case was filed under a specific section of the statute.",
+        "sentence": "OP No1563 of 2000 and Crl.O.P. No.2418 of 1999 respectively u section",
+        "sentence_number": 74
+    },
+    {
+        "head": "Crl.O.P. No2418 of 1999",
+        "head_type": "Legal Case/Proceeding",
+        "relation": "filed under",
+        "tail": "section",
+        "tail_type": "statute",
+        "definition": "This legal case was filed under a specific section of the statute.",
+        "sentence": "OP No1563 of 2000 and Crl.O.P. No.2418 of 1999 respectively u section",
+        "sentence_number": 74
+    },
+    {
+        "head": "OP No1563 of 2000",
+        "head_type": "Government",
+        "relation": "referenced under",
+        "tail": "section",
+        "tail_type": "Provision",
+        "relation_definition": "The court order OP No1563 of 2000 was referenced under the legal provision.",
+        "sentence": "OP No1563 of 2000 and Crl.O.P. No.2418 of 1999 respectively under section.",
+        "sentence_number": 74
+    },
+    {
+        "head": "Crl.O.P. No.2418 of 1999",
+        "head_type": "Government",
+        "relation": "referenced under",
+        "tail": "section",
+        "tail_type": "Provision",
+        "relation_definition": "The criminal procedure order Crl.O.P. No.2418 of 1999 was also referenced under the legal provision.",
+        "sentence": "OP No1563 of 2000 and Crl.O.P. No.2418 of 1999 respectively under section.",
+        "sentence_number": 74
+    },
+    {
+        "head": "482 of Cr.PC",
+        "head_type": "statute",
+        "relation": "for quashing",
+        "tail": "two complaints",
+        "tail_type": "complaints",
+        "relation_definition": "the statute is used to quash the two complaints.",
+        "sentence": "The statute, 482 of Cr.PC, is used for quashing the said two complaints.",
+        "sentence_number": 75
+    },
+    {
+        "head": "first complaint",
+        "head_type": "complaint",
+        "relation": "for quashing",
+        "tail": "statute",
+        "tail_type": "statute",
+        "relation_definition": "the complaint is being processed under the statute to be quashed.",
+        "sentence": "The first complaint is being processed for quashing under 482 of Cr.PC.",
+        "sentence_number": 75
+    },
+    {
+        "head": "second complaint",
+        "head_type": "complaint",
+        "relation": "for quashing",
+        "tail": "statute",
+        "tail_type": "statute",
+        "relation_definition": "the second complaint is also being processed under the statute to be quashed.",
+        "sentence": "The second complaint is being processed for quashing under 482 of Cr.PC.",
+        "sentence_number": 75
+    },
+    {
+        "head": "482 of Cr.PC",
+        "head_type": "provision",
+        "relation": "for quashing",
+        "tail": "the said two complaints",
+        "tail_type": "government",
+        "relation_definition": "The legal provision allows for the quashing of complaints by government authorities.",
+        "sentence": "482 of Cr.PC was invoked for the purpose of quashing the said two complaints by the government authorities.",
+        "sentence_number": 75
+    },
+    {
+        "head": "sections 378 403 405 415 or 425 IPC",
+        "head_type": "legislation",
+        "relation": "defined under",
+        "tail": "criminal offence",
+        "tail_type": "offence",
+        "relation_definition": "The legal sections define what constitutes a criminal offence.",
+        "sentence": "(ii) Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415 or 425 IPC.",
+        "sentence_number": 77
+    },
+    {
+        "head": "sections",
+        "head_type": "Criminal Act",
+        "relation": "constitute",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Act",
+        "relation_definition": "The sections of IPC were used to determine if the allegations constituted a criminal act.",
+        "sentence": "Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415, or 425 IPC.",
+        "sentence_number": 77
+    },
+    {
+        "head": "sections 378",
+        "head_type": "Criminal Act",
+        "relation": "constitute",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Act",
+        "relation_definition": "Section 378 of IPC was used to determine if the allegations constituted a criminal act.",
+        "sentence": "Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415, or 425 IPC.",
+        "sentence_number": 77
+    },
+    {
+        "head": "sections 403",
+        "head_type": "Criminal Act",
+        "relation": "constitute",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Act",
+        "relation_definition": "Section 403 of IPC was used to determine if the allegations constituted a criminal act.",
+        "sentence": "Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415, or 425 IPC.",
+        "sentence_number": 77
+    },
+    {
+        "head": "sections 405",
+        "head_type": "Criminal Act",
+        "relation": "constitute",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Act",
+        "relation_definition": "Section 405 of IPC was used to determine if the allegations constituted a criminal act.",
+        "sentence": "Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415, or 425 IPC.",
+        "sentence_number": 77
+    },
+    {
+        "head": "sections 415",
+        "head_type": "Criminal Act",
+        "relation": "constitute",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Act",
+        "relation_definition": "Section 415 of IPC was used to determine if the allegations constituted a criminal act.",
+        "sentence": "Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415, or 425 IPC.",
+        "sentence_number": 77
+    },
+    {
+        "head": "sections 425",
+        "head_type": "Criminal Act",
+        "relation": "constitute",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Act",
+        "relation_definition": "Section 425 of IPC was used to determine if the allegations constituted a criminal act.",
+        "sentence": "Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415, or 425 IPC.",
+        "sentence_number": 77
+    },
+    {
+        "head": "Criminal Allegations",
+        "head_type": "dispute",
+        "relation": "did not constitute",
+        "tail": "Criminal Offence",
+        "tail_type": "criminal offence",
+        "relation_definition": "The allegations do not meet the legal criteria under IPC sections 378, 403, etc., to be classified as criminal offences.",
+        "sentence_number": 77,
+        "sentence": "(ii) Even if all the allegations in the complaints were taken as true they did not constitute any criminal offence as defined under sections 378 403 405 415 or 425 IPC."
+    },
+    {
+        "head": "The complaints",
+        "head_type": "Legal claim",
+        "relation": "related to",
+        "tail": "purely contractual disputes",
+        "tail_type": "Contract",
+        "sentence": "(i) The complaints related to purely contractual disputes of a civil nature in respect of which IOC had already sought injunctive reliefs and money decrees.",
+        "sentence_number": 76
+    },
+    {
+        "head": "IOC",
+        "head_type": "Company",
+        "relation": "had sought",
+        "tail": "injunctive reliefs and money decrees",
+        "tail_type": "Legal remedy",
+        "sentence": "(i) The complaints related to purely contractual disputes of a civil nature in respect of which IOC had already sought injunctive reliefs and money decrees.",
+        "sentence_number": 76
+    },
+    {
+        "head": "disputes",
+        "head_type": "Dispute",
+        "relation": "related to",
+        "tail": "purely contractual disputes of a civil nature",
+        "relation_type": null,
+        "tail_type": null,
+        "sentence": "(i) The complaints related to purely contractual disputes of a civil nature in respect of which IOC had already sought injunctive reliefs and money decrees.",
+        "sentence_number": 76
+    },
+    {
+        "head": "IOC",
+        "head_type": "Petitioner",
+        "relation": "sought",
+        "tail": "injunctive reliefs and money decrees",
+        "relation_type": null,
+        "tail_type": "Argument",
+        "sentence": "(i) The complaints related to purely contractual disputes of a civil nature in respect of which IOC had already sought injunctive reliefs and money decrees.",
+        "sentence_number": 76
+    },
+    {
+        "head": "Court",
+        "relation": "accepted",
+        "tail": "Respondents",
+        "tail_type": "defendant",
+        "sentence": "It accepted the second ground urged by the Respondents herein but rejected the first ground.",
+        "sentence_number": 81
+    },
+    {
+        "head": "High Court",
+        "head_type": "Court",
+        "relation": "allowed",
+        "tail": "Petitions",
+        "tail_type": "Case",
+        "sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints.",
+        "sentence_number": 80
+    },
+    {
+        "head": "High Court",
+        "head_type": "Court",
+        "relation": "quashed",
+        "tail": "Complaints",
+        "tail_type": "Case",
+        "sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints.",
+        "sentence_number": 80
+    },
+    {
+        "Head": "High Court",
+        "Head_type": "Court Official - Judge or Bench",
+        "Relation": "allowed",
+        "Tail": "petitions",
+        "Tail_type": "Party",
+        "Relation_definition": "The court allowed the petitions.",
+        "Sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints.",
+        "sentence_number": "80",
+        "sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints."
+    },
+    {
+        "Head": "High Court",
+        "Head_type": "Court Official - Judge or Bench",
+        "Relation": "quashed",
+        "Tail": "complaints",
+        "Tail_type": "Party",
+        "Relation_definition": "The court quashed the complaints.",
+        "Sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints.",
+        "sentence_number": "80",
+        "sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints."
+    },
+    {
+        "head": "High Court",
+        "head_type": "Location",
+        "relation": "allowed",
+        "tail": "petitions",
+        "tail_type": "legal document",
+        "definition": "The court allowed the legal documents (petitions) to be considered.",
+        "sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints.",
+        "sentence_number": 80
+    },
+    {
+        "head": "High Court",
+        "head_type": "Location",
+        "relation": "quashed",
+        "tail": "complaints",
+        "tail_type": "legal document",
+        "definition": "The court dismissed the legal documents (complaints).",
+        "sentence": "The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints.",
+        "sentence_number": 80
+    },
+    {
+        "head": "rival contentions",
+        "head_type": "Party",
+        "relation": "the following points arise from",
+        "tail": "points",
+        "tail_type": "Provision",
+        "relation_definition": "Rival contentions led to the consideration of specific legal provisions.",
+        "sentence": "On the rival contentions urged, the following points arise for consideration.",
+        "sentence_number": 83
+    },
+    {
+        "head": "The said order",
+        "head_type": "Judgment",
+        "relation": "challenged by",
+        "tail": "these appeals",
+        "tail_type": "Case",
+        "definition": "The judgment is challenged in the case (appeals).",
+        "sentence": "The said order of the High Court is under challenge in these appeals.",
+        "sentence_number": 82
+    },
+    {
+        "head": "High Court",
+        "head_type": "Court",
+        "relation": "issued",
+        "tail": "The said order",
+        "tail_type": "Judgment",
+        "definition": "The court issued a judgment.",
+        "sentence": "The said order of the High Court is under challenge in these appeals.",
+        "sentence_number": 82
+    },
+    {
+        "head": "High Court",
+        "relation": "is under challenge by",
+        "tail": "these appeals",
+        "sentence": "The said order of the High Court is under challenge in these appeals.",
+        "sentence_number": 82
+    },
+    {
+        "head": "High Court",
+        "head_type": "Court Official - Judge or Bench",
+        "relation": "is under challenge",
+        "tail": "appeals",
+        "tail_type": "Appeal",
+        "relation_definition": "The High Court's order is being challenged in these appeals.",
+        "sentence": "The said order of the High Court is under challenge in these appeals.",
+        "sentence_number": 82
+    },
+    {
+        "head": "said order",
+        "head_type": "Order",
+        "relation": "is under challenge by",
+        "tail": "appeals",
+        "tail_type": "Appeal",
+        "relation_definition": "The said legal order is being challenged through these appeals.",
+        "sentence": "The said order of the High Court is under challenge in these appeals.",
+        "sentence_number": 82
+    },
+    {
+        "head": null,
+        "head_type": null,
+        "relation": null,
+        "tail": null,
+        "tail_type": null,
+        "relation_definition": null,
+        "sentence": "Whether existence or availment of civil remedy in respect of disputes arising from breach of contract bars remedy under criminal law.",
+        "sentence_number": 84
+    },
+    {
+        "head": "Contract",
+        "head_type": "contract",
+        "relation": "arising from",
+        "tail": "criminal law",
+        "tail_type": "criminal act",
+        "relation_definition": "A breach of contract can lead to actions that may be classified as criminal acts, potentially barring criminal law remedies.",
+        "sentence": "(i) Whether existence or availment of civil remedy in respect of disputes arising from breach of contract bars remedy under criminal law.",
+        "sentence_number": 84
+    },
+    {
+        "head": "civil remedy",
+        "head_type": "civil remedy",
+        "relation": "existence or availment of",
+        "tail": "criminal law",
+        "tail_type": "criminal law",
+        "relation_definition": "the existence or availment of a civil remedy can bar a remedy under criminal law.",
+        "sentence": "Whether the existence or availment of a civil remedy in respect of disputes arising from breach of contract bars remedy under criminal law.",
+        "sentence_number": 84
+    },
+    {
+        "head": "breach of contract",
+        "head_type": "dispute",
+        "relation": "arising from",
+        "tail": "civil remedy",
+        "tail_type": "civil remedy",
+        "relation_definition": "disputes arising from breach of contract relate to the availability of a civil remedy.",
+        "sentence": "Whether the existence or availment of a civil remedy in respect of disputes arising from breach of contract bars remedy under criminal law.",
+        "sentence_number": 84
+    },
+    {
+        "head": "dispute",
+        "head_type": "dispute",
+        "relation": "bars",
+        "tail": "criminal law",
+        "tail_type": "criminal law",
+        "relation_definition": "a dispute (breach of contract) can bar a remedy under criminal law.",
+        "sentence": "Whether the existence or availment of a civil remedy in respect of disputes arising from breach of contract bars remedy under criminal law.",
+        "sentence_number": 84
+    },
+    {
+        "head": "allegations in the complaint",
+        "head_type": "statute",
+        "relation": "constitutes any offence under",
+        "tail": "sections 378 403 405 415 or 425 IPC",
+        "tail_type": "statute",
+        "relation_definition": "Accepting the allegations as true could lead to consideration of offences under these specific sections of the Indian Penal Code.",
+        "sentence": "Whether the allegations in the complaint if accepted on face value constitute any offence under sections 378 403 405 415 or 425 IPC.",
+        "sentence_number": 85
+    },
+    {
+        "head": "The difinition",
+        "head_type": "",
+        "relation": "",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "",
+        "sentence": "The difinition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 88
+    },
+    {
+        "head": "definition",
+        "head_type": "provision",
+        "relation": "relating to exercise of jurisdiction under section",
+        "tail": "jurisdiction",
+        "tail_type": "jurisdiction",
+        "relation_definition": "the legal definition establishes the parameters of judicial authority under a specific clause or statute.",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal, relating to exercise of jurisdiction under section.",
+        "sentence_number": 89
+    },
+    {
+        "head": "this Court",
+        "head_type": "court",
+        "relation": "has stated and reiterated",
+        "tail": "several decisions",
+        "tail_type": "judicial actions",
+        "relation_definition": "The court has made several decisions regarding the quashing of complaints and criminal proceedings.",
+        "sentence": "482 of the Code of Criminal Procedure to quash complaints and criminal proceedings have been stated and reiterated by this Court in several decisions.",
+        "sentence_number": 90
+    },
+    {
+        "head": "482 of the Code of Criminal Procedure",
+        "head_type": "statute",
+        "relation": "deals with",
+        "tail": "complaints and criminal proceedings",
+        "sentence": "482 of the Code of Criminal Procedure to quash complaints and criminal proceedings have been stated and reiterated by this Court in several decisions.",
+        "sentence_number": 90
+    },
+    {
+        "head": "482",
+        "head_type": "Provision",
+        "relation": "used to quash",
+        "tail": "criminal proceedings",
+        "tail_type": "Criminal Proceeding",
+        "definition": "Section 482 is used to quash complaints and criminal proceedings.",
+        "sentence": "482 of the Code of Criminal Procedure to quash complaints and criminal proceedings have been stated and reiterated by this Court in several decisions.",
+        "sentence_number": "90"
+    },
+    {
+        "head": "Code of Criminal Procedure",
+        "head_type": "Government",
+        "relation": "jurisdiction over",
+        "tail": "cases",
+        "tail_type": "Case",
+        "definition": "The Code of Criminal Procedure allows jurisdiction over these cases.",
+        "sentence": "482 of the Code of Criminal Procedure to quash complaints and criminal proceedings have been stated and reiterated by this Court in several decisions.",
+        "sentence_number": "90"
+    },
+    {
+        "head": "this Court",
+        "head_type": "Court Official - Judge or Bench",
+        "relation": "stated and reiterated",
+        "tail": "several Cases",
+        "tail_type": "Case",
+        "definition": "This Court has stated and reiterated these decisions in several cases.",
+        "sentence": "482 of the Code of Criminal Procedure to quash complaints and criminal proceedings have been stated and reiterated by this Court in several decisions.",
+        "sentence_number": "90"
+    },
+    {
+        "head": "Sharaful Haque",
+        "head_type": "plaintiff",
+        "relation": "filed",
+        "tail": "2005 (1) SCC 122",
+        "tail_type": "case",
+        "relation_definition": "the plaintiff filed a case",
+        "sentence": "Sharaful Haque filed the case 2005 (1) SCC 122.",
+        "sentence_number": 92
+    },
+    {
+        "head": "Sharaful Haque",
+        "head_type": "Party",
+        "relation": "cited in",
+        "tail": "(1) SCC 122",
+        "tail_type": "Ratio-Decidendi",
+        "relation_definition": "This case was referenced as a legal principle.",
+        "sentence": "Sharaful Haque 2005 (1) SCC 122 .",
+        "sentence_number": 92
+    },
+    {
+        "head": "Sharaful Haque",
+        "head_type": "petitioner",
+        "relation": "filed",
+        "tail": "(1) SCC 122",
+        "tail_type": "case_number",
+        "relation_definition": "the petitioner initiated a legal action, referred to as case number (1) SCC 122.",
+        "sentence": "Sharaful Haque filed the legal action referred to as case number (1) SCC 122.",
+        "sentence_number": 92
+    },
+    {
+        "head": "2004 Indlaw SC 899",
+        "head_type": "court case - judgment",
+        "relation": "contain the",
+        "tail": "principles relevant to our purpose",
+        "tail_type": "ratio-decidendi",
+        "relation_definition": "The court case's judgment contains the legal principles relevant to the matter at hand.",
+        "sentence": "2004 Indlaw SC 899 The principles relevant to our purpose are...",
+        "sentence_number": 93
+    },
+    {
+        "head": "complaint",
+        "head_type": "Defendant",
+        "relation": "can be quashed where the allegations made in the complaint even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out the case alleged against the accused.",
+        "tail": "accused",
+        "tail_type": "defendant",
+        "relation_definition": "A complaint can be quashed if it lacks sufficient grounds to proceed against the defendant.",
+        "sentence": "(i) A complaint can be quashed where the allegations made in the complaint even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out the case alleged against the accused.",
+        "sentence_number": 94
+    },
+    {
+        "head": "complaint",
+        "head_type": "Party",
+        "relation": "can be quashed where",
+        "tail": "accused",
+        "tail_type": "Accused",
+        "relation_definition": "A complaint can be dismissed (quashed) if the allegations do not constitute an offence against the accused.",
+        "sentence": "A complaint can be quashed where the allegations made in the complaint even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out the case alleged against the accused.",
+        "sentence_number": 94
+    },
+    {
+        "head": "complaint",
+        "head_type": "lawsuit",
+        "relation": "can be quashed where",
+        "tail": "allegations made in the complaint do not prima facie constitute any offence or make out the case alleged against the accused.",
+        "tail_type": "dispute",
+        "relation_definition": "A complaint may be dismissed if the allegations, even if taken at face value and accepted in their entirety, do not prima facie constitute any offence or make out the case alleged against the accused.",
+        "sentence": "A complaint can be quashed where the allegations made in the complaint even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out the case alleged against the accused.",
+        "sentence_number": 94
+    },
+    {
+        "head": "complaint",
+        "head_type": "Dispute",
+        "relation": "has to be examined as a whole but without examining the merits of the allegations.",
+        "tail": "the legal process",
+        "tail_type": "Obiter-Dictum",
+        "sentence": "For this purpose the complaint has to be examined as a whole but without examining the merits of the allegations.",
+        "sentence_number": 97
+    },
+    {
+        "plaintiff": "Madhavrao Jiwaji Rao Scindia",
+        "defendant": "Sambhajirao Chandrojirao Angre",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "State of Haryana",
+        "defendant": "Bhajanlal",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "Rupan Deol Bajaj",
+        "defendant": "Kanwar Pal Singh Gill",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "Central Bureau of Investigation",
+        "defendant": "Duncans Agro Industries limited",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "State of Bihar",
+        "defendant": "Rajendra Agrawalla",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "Rajesh Bajaj",
+        "defendant": "State NCT of Delhi",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "Medchl Chemicals Pharma (P) limited",
+        "defendant": "Biological E limited",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "Hridaya Ranjan Prasad Verma",
+        "defendant": "State of Bihar",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "M. Krishnan",
+        "defendant": "Vijay Kumar",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "plaintiff": "Zandu Pharmaceutical Works limited",
+        "defendant": "Mohd.",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Madhavrao Jiwaji Rao Scindia",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "Sambhajirao Chandrojirao Angre",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "Madhavrao Jiwaji Rao Scindia versus Sambhajirao Chandrojirao Angre 1988 (1) SCC 692",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "State of Haryana",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "Bhajanlal",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "State of Haryana versus Bhajanlal 1992 Supreme Court Cases (1) SCC 335",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Rupan Deol Bajaj",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "Kanwar Pal Singh Gill",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "Rupan Deol Bajaj versus Kanwar Pal Singh Gill 1995 (6) SCC 194",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Central Bureau of Investigation",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "Duncans Agro Industries limited",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "Central Bureau of Investigation versus Duncans Agro Industries limited 1996 (5) SCC 591",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "State of Bihar",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "Rajendra Agrawalla",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "State of Bihar versus Rajendra Agrawalla 1996 (8) SCC 164",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Rajesh Bajaj",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "State NCT of Delhi",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Medchl Chemicals Pharma (P) limited",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "Biological E limited",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "Medchl Chemicals Pharma (P) limited versus Biological E limited 2000 (3) SCC 269",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Hridaya Ranjan Prasad Verma",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "State of Bihar",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "M. Krishnan",
+        "head_type": "plaintiff",
+        "relation": "versus",
+        "tail": "Vijay Kumar",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff initiated a legal case against the defendant",
+        "sentence_text": "M. Krishnan versus Vijay Kumar 2001 (8) SCC 645",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Zandu Pharmaceutical Works limited",
+        "head_type": "defendant",
+        "relation": "versus",
+        "tail": "Mohd.",
+        "tail_type": "plaintiff",
+        "relation_definition": "the defendant was sued by the plaintiff",
+        "sentence_text": "Zandu Phamaceutical Works limited versus Mohd.",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 269 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma versus State of Bihar 2000 (4) SCC 168 2000 Indlaw SC 248 M. Krishnan versus Vijay Kumar 2001 (8) SCC 645 2001 Indlaw SC 21143 and Zandu Phamaceutical Works limited versus  Mohd.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Madhavrao Jiwaji Rao Scindia",
+        "head_type": "Party",
+        "relation": "versus",
+        "tail": "Sambhajirao Chandrojirao Angre",
+        "tail_type": "Party",
+        "relation_definition": "Legal case between two parties.",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 141 2000 Indlaw SC 845 Central Board of Film Censor versus  Shrikkanth Srinivasan 1995 (1) SCC 220 1995.",
+        "sentence_number": 91
+    },
+    {
+        "head": "State of Haryana",
+        "head_type": "Party",
+        "relation": "versus",
+        "tail": "Bhajanlal",
+        "tail_type": "Party",
+        "relation_definition": "Legal case between a Government entity and an individual.",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 141 2000 Indlaw SC 845 Central Board of Film Censor versus  Shrikkanth Srinivasan 1995 (1) SCC 220 1995.",
+        "sentence_number": 91
+    },
+    {
+        "head": "Central Board of Film Censor",
+        "head_type": "Party",
+        "relation": "versus",
+        "tail": "Shrikkanth Srinivasan",
+        "tail_type": "Party",
+        "relation_definition": "Legal case between a Government entity and an individual.",
+        "sentence": "To mention a few Madhavrao Jiwaji Rao Scindia versus  Sambhajirao Chandrojirao Angre 1988 (1) SCC 692 1988 Indlaw SC 599 State of Haryana versus  Bhajanlal 1992 Supreme Court Cases (1) SCC 335 Rupan Deol Bajaj versus  Kanwar Pal Singh Gill 1995 (6) SCC 194 1995 Indlaw SC 1896 Central Bureau of Investigation versus  Duncans Agro Industries limited 1996 (5) SCC 591 1996 Indlaw SC 2982 State of Bihar versus  Rajendra Agrawalla 1996 (8) SCC 164 1996 Indlaw SC 4034 Rajesh Bajaj versus State NCT of Delhi 1999 (3) SCC 259 1999 Indlaw SC 447 Medchl Chemicals Pharma (P) limited  versus  Biological E limited 2000 (3) SCC 141 2000 Indlaw SC 845 Central Board of Film Censor versus  Shrikkanth Srinivasan 1995 (1) SCC 220 1995.",
+        "sentence_number": 91
+    },
+    {
+        "head": "the power to quash",
+        "head_type": "statute",
+        "relation": "shall not be used to",
+        "tail": "stifle or scuttle a legitimate prosecution",
+        "tail_type": "criminal act",
+        "relation_definition": "the statute outlines that this power cannot be used to hinder legitimate prosecutions, which are considered criminal acts.",
+        "sentence": "The power to quash shall not however be used to stifle or scuttle a legitimate prosecution.",
+        "sentence_number": 100
+    },
+    {
+        "head": "complaint",
+        "head_type": "case",
+        "relation": "relates to",
+        "tail": "offence",
+        "tail_type": "criminal offence",
+        "relation_definition": "the complaint relates to a criminal offence.",
+        "sentence": "The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.",
+        "sentence_number": 102
+    },
+    {
+        "head": "complaint",
+        "head_type": "Evidence",
+        "relation": "is not required to verbatim reproduce",
+        "tail": "offence",
+        "tail_type": "Criminal Act",
+        "relation_definition": "The complaint serves as evidence of the alleged offence without needing to exactly replicate its details.",
+        "sentence": "The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.",
+        "sentence_number": 102
+    },
+    {
+        "head": "complaint",
+        "head_type": "Party",
+        "relation": "not required to verbatim reproduce",
+        "tail": "legal ingredients",
+        "tail_type": "Provision",
+        "relation_definition": "The complaint does not need to exactly include all legal provisions of the offence.",
+        "sentence": "The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.",
+        "sentence_number": 102
+    },
+    {
+        "head": "complaint",
+        "head_type": "lawsuit",
+        "relation": "initiated by",
+        "tail": "lawsuit",
+        "relation_definition": "A complaint initiates a legal action, which is a lawsuit.",
+        "sentence": "(iv) The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.",
+        "sentence_number": 102
+    },
+    {
+        "head": "offence alleged",
+        "head_type": "dispute",
+        "relation": "related to",
+        "tail": "dispute",
+        "relation_definition": "An alleged offence is part of a legal dispute.",
+        "sentence": "(iv) The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.",
+        "sentence_number": 102
+    },
+    {
+        "head": "legal ingredients",
+        "head_type": "argument",
+        "relation": "involves",
+        "tail": "argument",
+        "relation_definition": "Legal ingredients are part of the arguments presented in court.",
+        "sentence": "(iv) The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.",
+        "sentence_number": 102
+    },
+    {
+        "head": "complaint",
+        "head_type": "Party",
+        "relation": "laid the necessary factual foundation",
+        "tail": "proceedings",
+        "tail_type": "jurisdiction",
+        "relation_definition": "The complaint provides the factual basis for the court's jurisdiction over the proceedings.",
+        "sentence": "If the necessary factual foundation is laid in the complaint merely on the ground that a few ingredients have not been stated in detail, the proceedings should not be quashed.",
+        "sentence_number": 103
+    },
+    {
+        "head": "complaint",
+        "head_type": "Dispute",
+        "relation": "refers to",
+        "tail": "proceedings",
+        "tail_type": "Dispute",
+        "relation_definition": "The complaint establishes the necessary facts related to the legal dispute.",
+        "sentence": "If the necessary factual foundation is laid in the complaint merely on the ground that a few ingredients have not been stated in detail, the proceedings should not be quashed.",
+        "sentence_number": 103
+    },
+    {
+        "head": "A complaint",
+        "head_type": "legal claim",
+        "relation": "may be quashed",
+        "tail": "criminal proceeding",
+        "tail_type": "criminal act",
+        "sentence": "(ii) A complaint may also be quashed where it is a clear abuse of the process of the court as when the criminal proceeding is found to have been initiated with malafides malice for wreaking vengeance or to cause harm or where the allegations are absurd and inherently improbable.",
+        "sentence_number": 99
+    },
+    {
+        "head": "A complaint",
+        "head_type": "Party",
+        "relation": "may also be quashed where",
+        "tail": "it is a clear abuse of the process of the court",
+        "tail_type": "Government",
+        "relation_definition": "The complaint can be dismissed if the court's actions are deemed abusive.",
+        "sentence": "A complaint may also be quashed where it is a clear abuse of the process of the court as when the criminal proceeding is found to have been initiated with malafides malice for wreaking vengeance or to cause harm or where the allegations are absurd and inherently improbable.",
+        "sentence_number": 99
+    },
+    {
+        "head": "criminal offence",
+        "head_type": "Criminal Act",
+        "relation": "is classified as",
+        "tail": "Criminal Act",
+        "tail_type": "Criminal Act",
+        "relation_definition": "criminal offence is categorized under Criminal Act",
+        "sentence": "The criminal offence is classified as a Criminal Act.",
+        "sentence_number": 109
+    },
+    {
+        "head": "Court",
+        "head_type": "court",
+        "relation": "quashed",
+        "tail": "complaint",
+        "tail_type": "complaint",
+        "relation_definition": "The court may quash a complaint if it is lacking necessary facts.",
+        "sentence": "Quashing of the complaint is warranted only where the complaint is so bereft of even the basic facts which are absolutely necessary for making out the offence.",
+        "sentence_number": 106
+    },
+    {
+        "head": "complaint",
+        "relation": "is warranted only where.",
+        "tail": "offence",
+        "sentence": "Quashing of the complaint is warranted only where the complaint is so bereft of even the basic facts which are absolutely necessary for making out the offence.",
+        "sentence_number": 106
+    },
+    {
+        "head": "condition",
+        "relation": "lacks necessary facts for making out",
+        "tail": "Criminal Act (offence)",
+        "sentence": "Quashing of the complaint is warranted only where the complaint is so bereft of even the basic facts which are absolutely necessary for making out the offence.",
+        "sentence_number": 106
+    },
+    {
+        "head": "quashing of the complaint",
+        "head_type": "argument",
+        "relation": "is warranted only where",
+        "tail": "complaint",
+        "tail_type": "dispute",
+        "relation_definition": "the quashing of the complaint is justified when the complaint lacks essential facts necessary for an offence.",
+        "sentence": "Quashing of the complaint is warranted only where the complaint is so bereft of even the basic facts which are absolutely necessary for making out the offence.",
+        "sentence_number": 106
+    },
+    {
+        "head": "a civil wrong",
+        "head_type": "dispute",
+        "relation": "can also be",
+        "tail": "a criminal offence",
+        "tail_type": "dispute",
+        "relation_definition": "a civil wrong can also be a criminal offence, leading to both civil and criminal legal consequences.",
+        "sentence": "(c) A civil wrong can also be a criminal offence.",
+        "sentence_number": 110
+    },
+    {
+        "head": "A commercial transaction or a contractual dispute",
+        "head_type": "contract",
+        "relation": "may also involve",
+        "tail": "a criminal offence",
+        "tail_type": "criminal act",
+        "relation_definition": "A commercial transaction or a contractual dispute may result in a criminal act.",
+        "sentence": "A commercial transaction or a contractual dispute apart from furnishing a cause of action for seeking remedy in civil law may also involve a criminal offence.",
+        "sentence_number": 113
+    },
+    {
+        "head": "A commercial transaction or a contractual dispute",
+        "head_type": "Dispute",
+        "relation": "may lead to",
+        "tail": "seeking remedy in civil law",
+        "tail_type": "Petitioner",
+        "relation_definition": "The Dispute may lead to the Petitioner seeking a remedy.",
+        "sentence": "A commercial transaction or a contractual dispute apart from furnishing a cause of action for seeking remedy in civil law may also involve a criminal offence.",
+        "sentence_number": 113
+    },
+    {
+        "head": "A commercial transaction or a contractual dispute",
+        "head_type": "Dispute",
+        "relation": "may also involve",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Offence",
+        "relation_definition": "The Dispute may lead to a criminal offence.",
+        "sentence": "A commercial transaction or a contractual dispute apart from furnishing a cause of action for seeking remedy in civil law may also involve a criminal offence.",
+        "sentence_number": 113
+    },
+    {
+        "head": "breach of contract",
+        "relation": "relates to",
+        "tail": "criminal proceedings",
+        "sentence": "As the nature and scope of a civil proceedings are different from a criminal proceeding the mere fact that the complaint relates to a commercial transaction or breach of contract for which a civil remedy is available or has been availed is not by itself a ground to quash the criminal proceedings.",
+        "sentence_number": 114
+    },
+    {
+        "head": "civil proceedings",
+        "head_type": "Party",
+        "relation": "are different from",
+        "tail": "criminal proceeding",
+        "tail_type": "Party",
+        "definition": "Differentiates between types of legal cases.",
+        "sentence": "As the nature and scope of a civil proceedings are different from a criminal proceeding the mere fact that the complaint relates to a commercial transaction or breach of contract for which a civil remedy is available or has been availed is not by itself a ground to quash the criminal proceedings.",
+        "sentence_number": 114
+    },
+    {
+        "head": "criminal proceeding",
+        "head_type": "Jurisdiction",
+        "relation": "is not by itself a ground to quash",
+        "tail": "criminal proceedings",
+        "tail_type": "Jurisdiction",
+        "definition": "Refers to the authority over legal matters.",
+        "sentence": "As the nature and scope of a civil proceedings are different from a criminal proceeding the mere fact that the complaint relates to a commercial transaction or breach of contract for which a civil remedy is available or has been availed is not by itself a ground to quash the criminal proceedings.",
+        "sentence_number": 114
+    },
+    {
+        "head": "the test",
+        "head_type": "criminal act",
+        "relation": "whether the allegations in the complaint disclose",
+        "tail": "criminal offence or not",
+        "tail_type": "criminal act",
+        "relation_definition": "the test is to determine if there is a criminal act involved.",
+        "sentence": "The test is whether the allegations in the complaint disclose a criminal offence or not.",
+        "sentence_number": 115
+    },
+    {
+        "head": "purely civil disputes",
+        "head_type": "dispute",
+        "relation": "into criminal cases",
+        "tail": "criminal cases",
+        "tail_type": "dispute",
+        "relation_definition": "The transformation of purely civil disputes into criminal cases.",
+        "sentence": "While on this issue, it is necessary to take notice of a growing tendency in business circles to convert purely civil disputes into criminal cases.",
+        "sentence_number": 118
+    },
+    {
+        "head": "a prevalent impression",
+        "head_type": "impression",
+        "relation": "that affects",
+        "tail": "lenders creditors",
+        "tail_type": "party",
+        "relation_definition": "the impression that civil law remedies affect the interests of lenders and creditors.",
+        "sentence": "This is obviously on account of a prevalent impression that civil law remedies are time consuming and do not adequately protect the interests of lenders creditors.",
+        "sentence_number": 119
+    },
+    {
+        "head": "civil law remedies",
+        "head_type": "legal remedy",
+        "relation": "are time consuming",
+        "tail": "lenders creditors",
+        "tail_type": "party",
+        "relation_definition": "the nature of the remedy that civil law remedies are considered time-consuming and do not adequately protect the interests of lenders and creditors.",
+        "sentence": "This is obviously on account of a prevalent impression that civil law remedies are time consuming and do not adequately protect the interests of lenders creditors.",
+        "sentence_number": 119
+    },
+    {
+        "head": "family disputes",
+        "head_type": "Party",
+        "relation": "leading to",
+        "tail": "irretrievable break down of marriages",
+        "tail_type": "Family Dispute",
+        "relation_definition": "Family disputes can lead to irretrievable break down of marriages.",
+        "sentence": "Such a tendency is seen in several family disputes also leading to irretrievable break down of marriages families.",
+        "sentence_number": 120
+    },
+    {
+        "head": "family disputes",
+        "head_type": "dispute",
+        "relation": "leading to",
+        "tail": "irretrievable break down of marriages",
+        "tail_type": "dispute",
+        "relation_definition": "Family disputes can lead to irretrievable break down of marriages.",
+        "sentence": "Such a tendency is seen in several family disputes also leading to irretrievable break down of marriages.",
+        "sentence_number": 120
+    },
+    {
+        "head": "person",
+        "head_type": "suspect",
+        "relation": "could be entangled in",
+        "tail": "criminal prosecution",
+        "tail_type": "police",
+        "relation_definition": "The suspect may face criminal charges.",
+        "sentence": "There is an impression that if a person could somehow be entangled in a criminal prosecution, there is a likelihood of imminent settlement.",
+        "sentence_number": 123
+    },
+    {
+        "head": "criminal prosecution",
+        "head_type": "police",
+        "relation": "could lead to",
+        "tail": "imminent settlement",
+        "tail_type": "court",
+        "relation_definition": "Criminal proceedings might result in a legal resolution.",
+        "sentence": "There is also an impression that if a person could somehow be entangled in a criminal prosecution there is a likelihood of imminent settlement.",
+        "sentence_number": 123
+    },
+    {
+        "head": "criminal prosecution",
+        "head_type": "Government",
+        "relation": "may lead to",
+        "tail": "settlement",
+        "tail_type": "Government",
+        "relation_definition": "Criminal prosecution may lead to a legal settlement.",
+        "sentence": "There is also an impression that if a person could somehow be entangled in a criminal prosecution there is a likelihood of imminent settlement.",
+        "sentence_number": 123
+    },
+    {
+        "head": "Criminal proceedings",
+        "head_type": "Criminal Act",
+        "relation": "are not a short cut of",
+        "tail": "other remedies available in law",
+        "tail_type": "Statute",
+        "relation_definition": "Criminal proceedings are not an alternative method to other legal remedies available in law.",
+        "sentence": "Criminal proceedings are not a short cut of other remedies available in law.",
+        "sentence_number": 129
+    },
+    {
+        "head": "Criminal proceedings",
+        "head_type": "Government",
+        "relation": "are not a short cut of",
+        "tail": "other remedies",
+        "tail_type": "Government",
+        "relation_definition": "Criminal proceedings are not an alternative method for other available legal remedies.",
+        "sentence": "Criminal proceedings are not a short cut of other remedies available in law.",
+        "sentence_number": 129
+    },
+    {
+        "head": "Definition",
+        "headType": "contract",
+        "relation": "related to fixing",
+        "tail": "deal",
+        "tailType": "contract",
+        "relationDefinition": "The legal definition indicates they are not bound to fix deals, implying no contract.",
+        "sentence": "19.",
+        "sentence_number": 126
+    },
+    {
+        "head": "criminal court",
+        "head_type": "Criminal Act",
+        "relation": "must exercise caution",
+        "tail": "issuing process",
+        "tail_type": "Evidence",
+        "relation_definition": "The criminal court, in the context of criminal acts, must carefully issue processes to ensure proper legal actions are taken.",
+        "sentence": "Before issuing a process, a criminal court has to exercise a great deal of caution.",
+        "sentence_number": 130
+    },
+    {
+        "head": "issuing process",
+        "head_type": "Evidence",
+        "relation": "is subject to",
+        "tail": "criminal court",
+        "tail_type": "Criminal Act",
+        "relation_definition": "The issuing of a process by the criminal court is subject to careful consideration and caution.",
+        "sentence": "Before issuing a process, a criminal court has to exercise a great deal of caution.",
+        "sentence_number": 130
+    },
+    {
+        "head": "criminal court",
+        "head_type": "Government",
+        "relation": "must exercise",
+        "tail": "issuing process",
+        "tail_type": "Legal Term",
+        "relation_definition": "The criminal court has to be cautious when issuing legal processes.",
+        "sentence": "Before issuing process, a criminal court has to exercise a great deal of caution.",
+        "sentence_number": 130
+    },
+    {
+        "head": "the accused",
+        "head_type": "Criminal Act",
+        "relation": "it is a serious matter for",
+        "tail": "the accused",
+        "tail_type": "Criminal Act",
+        "relation_definition": "The accused is involved in a legal situation that is considered serious.",
+        "sentence": "For the accused it is a serious matter.",
+        "sentence_number": 131
+    },
+    {
+        "head": "matter",
+        "head_type": "Case",
+        "relation": "is given a cloak of",
+        "tail": "criminal offence",
+        "tail_type": "Criminal Offence",
+        "relation_definition": "A matter which is essentially of civil nature has been mistakenly given the classification of criminal offence.",
+        "sentence": "It is to be seen if a matter which is essentially of civil nature has been given a cloak of criminal offence.",
+        "sentence_number": 128
+    },
+    {
+        "head": "matter",
+        "head_type": "Party",
+        "relation": "has been given a cloak of",
+        "tail": "criminal offence",
+        "tail_type": "Penalty",
+        "relation_definition": "The matter has been incorrectly classified as a criminal offence.",
+        "sentence": "It is to be seen if a matter which is essentially of civil nature has been given a cloak of criminal offence.",
+        "sentence_number": 128
+    },
+    {
+        "head": "G Sagar Suri",
+        "head_type": "plaintiff",
+        "relation": "filed lawsuit against",
+        "tail": "State of UP",
+        "tail_type": "defendant",
+        "relation_definition": "the plaintiff, G Sagar Suri, filed a lawsuit against the defendant, State of UP.",
+        "sentence": "In G Sagar Suri versus State of UP 2000 (2) SCC 636 2000 Indlaw SC 603 this Court observed",
+        "sentence_number": 127
+    },
+    {
+        "head": "G Sagar Suri",
+        "head_type": "Party",
+        "relation": "versus",
+        "tail": "State of UP",
+        "tail_type": "Party",
+        "relation_definition": "Legal action taken against the State of UP by G Sagar Suri.",
+        "sentence": "In G Sagar Suri versus State of UP 2000 (2) SCC 636 2000 Indlaw SC 603, this Court observed",
+        "sentence_number": 127
+    },
+    {
+        "head": "this Court",
+        "head_type": "Court Official",
+        "relation": "observed",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "The court observed the case.",
+        "sentence": "In G Sagar Suri versus State of UP 2000 (2) SCC 636 2000 Indlaw SC 603 this Court observed",
+        "sentence_number": 127
+    },
+    {
+        "Petitioner": "G Sagar Suri",
+        "Respondent": "State of UP",
+        "Relation": "versus",
+        "sentence": "In G Sagar Suri versus  State of UP 2000 (2) SCC 636 2000 Indlaw SC 603 this Court observed",
+        "sentence_number": 127
+    },
+    {
+        "Case Citation": "2000 (2) SCC 636",
+        "Relation": "Court Decision",
+        "sentence": "In G Sagar Suri versus  State of UP 2000 (2) SCC 636 2000 Indlaw SC 603 this Court observed",
+        "sentence_number": 127
+    },
+    {
+        "Case Citation": "2000 Indlaw SC 603",
+        "Relation": "Court Decision",
+        "sentence": "In G Sagar Suri versus  State of UP 2000 (2) SCC 636 2000 Indlaw SC 603 this Court observed",
+        "sentence_number": 127
+    },
+    {
+        "head": "",
+        "head_type": "",
+        "relation": "",
+        "tail": "",
+        "tail_type": "",
+        "relation_definition": "",
+        "sentence": "Any effort to settle civil disputes and claims which do not involve any criminal offence by applying pressure though criminal prosecution should be deprecated and discouraged.",
+        "sentence_number": 124
+    },
+    {
+        "head": "Any effort",
+        "head_type": "Party",
+        "relation": "applies pressure through",
+        "tail": "Criminal prosecution",
+        "tail_type": "Government",
+        "relation_definition": "Efforts apply pressure using criminal prosecution as a method.",
+        "sentence": "Any effort to settle civil disputes and claims which do not involve any criminal offence by applying pressure though criminal prosecution should be deprecated and discouraged.",
+        "sentence_number": 124
+    },
+    {
+        "head": "This Court",
+        "head_type": "court",
+        "relation": "has laid principles on the basis of which",
+        "tail": "High Court",
+        "tail_type": "court",
+        "relation_definition": "This court established principles for how the high court should exercise its jurisdiction.",
+        "sentence": "This Court has laid certain principles on the basis of which High Court is to exercise its jurisdiction.",
+        "sentence_number": 132
+    },
+    {
+        "head": "This Court",
+        "head_type": "court",
+        "relation": "laid certain principles",
+        "tail": "High Court",
+        "tail_type": "court",
+        "relation_definition": "the court established rules that guide the high court's jurisdiction",
+        "sentence": "This court has laid certain principles on the basis of which the high court is to exercise its jurisdiction.",
+        "sentence_number": 132
+    },
+    {
+        "head": "This Court",
+        "head_type": "Government",
+        "relation": "has laid certain principles on the basis of which",
+        "tail": "High Court",
+        "tail_type": "Government",
+        "relation_definition": "The Government court has established legal principles for the High Court to follow in exercising its jurisdiction.",
+        "sentence": "This Court has laid certain principles on the basis of which High Court is to exercise its jurisdiction u section.",
+        "sentence_number": 132
+    },
+    {
+        "head": "This Court",
+        "head_type": "court",
+        "relation": "laid principles on which",
+        "tail": "High Court",
+        "tail_type": "court",
+        "relation_definition": "This court established principles that the High Court must follow in exercising its jurisdiction.",
+        "sentence": "This Court has laid certain principles on the basis of which High Court is to exercise its jurisdiction under section.",
+        "sentence_number": 132
+    },
+    {
+        "head": "482",
+        "head_type": "statute",
+        "relation": "referenced by",
+        "tail": "Code",
+        "tail_type": "statute",
+        "relation_definition": "The statute 482 is part of the legal framework referred to as the Code.",
+        "sentence": "482 of the Code.",
+        "sentence_number": 133
+    },
+    {
+        "head": "Code",
+        "head_type": "Government",
+        "relation": "referenced by",
+        "tail": "482",
+        "tail_type": "Provision",
+        "relation_definition": "The Code is referenced in relation to provision 482.",
+        "sentence": "482 of the Code.",
+        "sentence_number": 133
+    },
+    {
+        "head": "definition",
+        "head_type": "provision",
+        "relation": "related to",
+        "tail": "deal fixing",
+        "tail_type": "penalty",
+        "relation_definition": "the provision relates to the inability to fix a deal, potentially leading to penalties.",
+        "sentence": "The definition demonstrated that they are not in the position of fixing a deal.",
+        "sentence_number": 136
+    },
+    {
+        "head": "definition",
+        "head_type": "Evidence",
+        "relation": "demonstrated that",
+        "tail": "deal",
+        "tail_type": "Contract",
+        "relation_definition": "evidence showed the inability to finalize a contract.",
+        "sentence": "The evidence, defined as 'definition,' demonstrated that they are not in the position of fixing a deal related to a contract.",
+        "sentence_number": 21
+    }
+]

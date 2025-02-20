@@ -1,0 +1,40 @@
+Plaintiff: The individual, group, or organization that initiates a lawsuit by filing a complaint against another party (defendant) in a court of law.
+Defendant: The individual, group, or organization being sued or accused of wrongdoing in a legal proceeding.
+Organization: A formally structured entity (e.g., company, NGO, government agency) involved in legal proceedings or disputes.
+Police: Law enforcement officers or agencies responsible for investigating crimes, maintaining order, or executing court orders.
+Suspect: A person under investigation or believed to have committed a crime but not yet formally charged.
+Crime Scene: A physical location where an alleged criminal act occurred, often central to evidence collection.
+Court: The judicial body or institution where legal cases are heard and adjudicated.
+Case: A formal legal dispute or proceeding brought before a court for resolution.
+Judgment: The final decision or ruling issued by a court, determining the rights and obligations of parties.
+Learned Counsel: A qualified lawyer or legal representative recognized for their expertise in a case.
+Copyright or Trademark Rights/Dispute: Legal claims or conflicts over ownership, use, or infringement of intellectual property.
+Infringer: An individual or entity violating intellectual property rights (e.g., copyrights, trademarks).
+Company: A legally registered business entity engaged in commercial activities, often involved in contracts or disputes.
+Statute: A formally enacted written law passed by a legislative body (e.g., penal code, criminal procedure code).
+Evidence: Facts, documents, objects, or testimony presented in court to prove or disprove allegations.
+Witness: A person who provides firsthand testimony or evidence about events relevant to a case.
+Testimony: Oral or written statements given under oath by a witness during legal proceedings.
+Lawyer: A licensed professional who represents or advises clients in legal matters.
+Contract: A legally binding agreement between parties outlining obligations, rights, and terms.
+Criminal Act: An action or omission prohibited by law and punishable by the state (e.g., theft, fraud).
+Government: A public authority or agency (local, state, or national) involved in legal matters or enforcement.
+Provision: A specific clause, term, or condition within a legal document (e.g., contract, statute).
+Penalty: A punishment (e.g., fine, imprisonment) imposed for violating a law or court order.
+Court Official - Judge or Bench: A judicial officer (judge) or panel (bench) presiding over court proceedings.
+Ratio-Decidendi: The legal principle or reasoning central to a court’s judgment, forming binding precedent.
+Accused: A person formally charged with a criminal offense but not yet convicted.
+Party: Any participant (individual, organization, or entity) directly involved in a legal case (e.g., plaintiff, defendant).
+Appellant: The party who appeals a court’s decision to a higher court for review.
+Copyright Infringement: Unauthorized use of copyrighted material violating the owner’s exclusive rights.
+Jurisdiction: The legal authority of a court or governing body to hear and decide cases within a specific geographic or subject-matter scope.
+Lawsuit: A legal action brought by a plaintiff against a defendant to enforce or defend a right.
+Appeal: A request to a higher court to review and overturn a lower court’s decision.
+Location: A place with legal relevance (e.g., crime scene, court address, contract execution site).
+Dispute: A conflict or disagreement between parties requiring legal resolution (e.g., contractual, property).
+Petitioner: A party who initiates a petition or request in court (e.g., in civil or administrative cases).
+Date and Time: Specific temporal references tied to legal events (e.g., crime dates, court hearings).
+Argument: Legal reasoning or claims presented by parties or counsel to support their case.
+Respondent: The party against whom an appeal, petition, or motion is filed.
+Convicted: A person or entity found guilty of a crime by a court after a trial or plea.
+Obiter-Dictum: A non-binding remark or opinion made by a judge in a ruling, not essential to the decision

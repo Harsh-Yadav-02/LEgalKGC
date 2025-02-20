@@ -1,0 +1,23 @@
+Example 1:
+Sentence: "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court."
+Sentence Number: 1
+Output: [
+  {"entity": "Mr. A. Kumar", "entity_type": "plaintiff", "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.", "sentence_number": 1},
+  {"entity": "Acme Corporation", "entity_type": "defendant", "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.", "sentence_number": 1},
+  {"entity": "lawsuit", "entity_type": "lawsuit", "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.", "sentence_number": 1},
+  {"entity": "12 March 2023", "entity_type": "date and time", "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.", "sentence_number": 1}
+]
+
+Example 2:
+Sentence: "The learned counsel, Ms. Priya Sharma, represented the organization, Global Tech Solutions, in an appeal case at the Mumbai High Court."
+Sentence Number: 2
+Output: [
+  {"entity": "Ms. Priya Sharma", "entity_type": "learned counsel", "sentence": "The learned counsel, Ms. Priya Sharma, represented the organization, Global Tech Solutions, in an appeal case at the Mumbai High Court.", "sentence_number": 2},
+  {"entity": "Global Tech Solutions", "entity_type": "organization", "sentence": "The learned counsel, Ms. Priya Sharma, represented the organization, Global Tech Solutions, in an appeal case at the Mumbai High Court.", "sentence_number": 2},
+  {"entity": "appeal", "entity_type": "appeal", "sentence": "The learned counsel, Ms. Priya Sharma, represented the organization, Global Tech Solutions, in an appeal case at the Mumbai High Court.", "sentence_number": 2}
+]
+
+Example 3:
+Sentence: "This is a random sentence with no legal entities."
+Sentence Number: 3
+Output: []
