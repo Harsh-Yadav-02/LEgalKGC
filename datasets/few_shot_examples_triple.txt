@@ -64,7 +64,7 @@ Output: [
 
 
 Example 3:
-Sentence: "The difinition demonstrated that they are not in the position of fixing a deal."
+Sentence: "The definition demonstrated that they are not in the position of fixing a deal."
 Sentence Number: 3
 Output: []
 
