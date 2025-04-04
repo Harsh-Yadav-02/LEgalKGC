@@ -1,0 +1,86 @@
+---------- LLM Prompt ----------
+You are a legal expert. You are provided with:
+1. An original sentence from a legal document.
+2. The current relation (predicate) extracted from that sentence.
+3. The relation definition as extracted from the dataset.
+4. A candidate list of canonical predicates along with their definitions and similarity scores.
+
+Your task is to analyze the context and decide which canonical predicate best represents the relation.
+If none of the candidates are suitable, output "unchanged" to indicate that the predicate should remain as-is.
+IMPORTANT: Output strictly valid JSON. Do not include any chain-of-thought or commentary.
+The output must be a JSON object mapping the current relation (as provided below) to its chosen canonical predicate or the string "unchanged".
+
+Original Sentence:
+The allegations are sufficient to constitute offences u ss. 415 and 425 of IPC.
+
+Current Relation:
+constitute offences under
+
+Relation Definition:
+The allegations are sufficient to establish the basis for crimes under specific sections of the Indian Penal Code (IPC).
+
+Candidate Canonical Predicates:
+[
+  {
+    "predicate": "is searched for traces of",
+    "definition": "The crime scene is thoroughly examined for evidence linking to the criminal act.",
+    "score": 0.4893026649951935
+  },
+  {
+    "predicate": "implicates in",
+    "definition": "Evidence suggests the defendant's involvement in a criminal act.",
+    "score": 0.48708659410476685
+  },
+  {
+    "predicate": "evaluates relevance of",
+    "definition": "The court determines the significance of evidence presented in a criminal act.",
+    "score": 0.47849470376968384
+  },
+  {
+    "predicate": "contains",
+    "definition": "The crime scene holds evidence that can be linked to the criminal act and its location.",
+    "score": 0.4678392708301544
+  },
+  {
+    "predicate": "yields proof of",
+    "definition": "The crime scene provides evidence supporting the occurrence of a criminal act.",
+    "score": 0.46707087755203247
+  }
+]
+
+Revised Result:
+---------- LLM Output ----------
+<think>
+Alright, let's break this down step by step to figure out which canonical predicate best fits the given relation.
+
+First, the original sentence is: "The allegations are sufficient to constitute offences u ss. 415 and 425 of IPC." The current relation extracted from this is "constitute offences under."
+
+Looking at the relation definition provided, it says that the allegations are enough to establish the basis for crimes under specific sections of the IPC.
+
+Now, looking at the candidate predicates:
+
+1. **is searched for traces of**: This seems more about examining a crime scene for evidence, which doesn't fit here.
+2. **implicates in**: This is about suggesting involvement in a crime, but the sentence isn't about that; it's about establishing offences.
+3. **evaluates relevance of**: This involves determining the significance of evidence, which again doesn't quite match the idea of establishing offences.4. **contains**: This refers to holding evidence linked to the crime, not directly about constituting offences under a law.
+5. **yields proof of**: Similar to 'contains,' this is about providing evidence rather than establishing legal charges.
+
+None of these candidates seem to capture the essence of "constitute offences under." They all relate more to evidence or involvement in crimes rather than the establishment of specific legal charges under particular sections.
+
+Therefore, since none of the provided predicates fit the relation described, the best course of action is to leave it as "unchanged."
+</think>
+
+```json
+{
+  "constitute offences under": "unchanged"
+}
+```
+
+
+---------- LLM Error (if any) ----------
+
+LLM decision: 'unchanged' (no suitable candidate). Keeping original predicate.
+Canonicalizing relations: 100%|███████████████████████████████████████████████████████████████████████████████████████| 366/366 [47:22<00:00,  7.77s/it]
+
+Canonicalized dataset saved to .output\canonicalized_dataset.csv
+Total unchanged predicates (left as original): 241
+Total processing time: 2849.65 seconds

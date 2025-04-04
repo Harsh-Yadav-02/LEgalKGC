@@ -4,6 +4,7 @@ import json
 import subprocess
 import multiprocessing
 import re
+import os
 from tqdm import tqdm
 
 def load_entity_types(entity_file):
@@ -40,7 +41,6 @@ def chunk_entity_types(entity_types, chunk_size=10):
     for i in range(0, len(items), chunk_size):
         yield dict(items[i:i+chunk_size])
 
-
 def load_document(document_file):
     """
     Load document sentences from a file (one sentence per line) and
@@ -73,46 +73,44 @@ def extract_json(text):
 
 def construct_prompt(few_shot_examples, entity_types, sentence, sentence_number):
     """
-    Build the prompt for Deepseek with the new relation extraction instructions.
+    Build a refined prompt for Deepseek relation extraction.
     
     The prompt includes:
-      - Few-shot examples (if provided).
-      - A list of valid entity types and their definitions.
-      - Clear instructions to extract from the given sentence all legal relations.
-      - For each relation, return an object with the following keys:
-            "head": the first entity text,
-            "head_type": its type (one of the provided entity types),
-            "relation": the connecting phrase indicating the relation,
-            "tail": the second entity text,
-            "tail_type": its type (one of the provided entity types),
-            "relation_definition": a brief explanation of the relation,
-            "sentence": the full sentence text,
-            "sentence_number": the sentence's line number.
-      - If no legal relation is found, return an empty JSON array.
+      - (Optional) Few-shot examples for guidance.
+      - A clear set of instructions for extracting legal relations.
+      - A concise list of entity types and definitions.
+      - The sentence number and sentence text.
+    
+    Note: The examples above are provided for format guidance only and should not be included in the final output.
     """
     prompt_parts = []
     if few_shot_examples:
-        prompt_parts.append(few_shot_examples)
-
+        prompt_parts.append("Examples (for guidance only):\n" + few_shot_examples)
+    
+    prompt_parts.append("Instructions:")
+    prompt_parts.append("You are a legal expert. Extract all legal relations from the sentence below using only the following entity types exactly as defined.")
+    
     # List entity types and their definitions.
     entity_descriptions = "\n".join([f"- {etype}: {definition}" for etype, definition in entity_types.items()])
-    prompt_parts.append("You are a legal expert assigned to extract legal relations from the sentence below.")
-    prompt_parts.append("Extract all legal relations from the sentence, strictly following the entity types provided below.")
-    prompt_parts.append("Entity Types and Definitions:\n" + entity_descriptions)
-    prompt_parts.append("For each relation, return an object in JSON format with exactly these keys (all values must be strings):")
-    prompt_parts.append("  - head (the first entity text)")
-    prompt_parts.append("  - head_type (one of the provided entity types)")
-    prompt_parts.append("  - relation (the phrase connecting the head to the tail)")
-    prompt_parts.append("  - tail (the second entity text)")
-    prompt_parts.append("  - tail_type (one of the provided entity types)")
-    prompt_parts.append("  - relation_definition (a brief explanation of the legal connection between head and tail)")
-    prompt_parts.append("  - sentence (the full sentence text)")
-    prompt_parts.append("  - sentence_number (the sentence's line number)")
-    prompt_parts.append("Do not include any explanations, markdown formatting, or additional text. Return only a single valid JSON array. If no relation is found, return [] exactly.")
+    prompt_parts.append("Entity Types and Definitions:")
+    prompt_parts.append(entity_descriptions)
+    
+    prompt_parts.append("For each relation, return a JSON object with exactly these keys (all values must be strings):")
+    prompt_parts.append("  - head: the first entity text")
+    prompt_parts.append("  - head_type: one of the provided entity types")
+    prompt_parts.append("  - relation: the phrase linking head and tail")
+    prompt_parts.append("  - tail: the second entity text")
+    prompt_parts.append("  - tail_type: one of the provided entity types")
+    prompt_parts.append("  - relation_definition: a brief explanation of the legal connection")
+    prompt_parts.append("  - sentence: the full sentence text")
+    prompt_parts.append("  - sentence_number: the sentence's line number")
+    prompt_parts.append("Output only a single valid JSON array. Do not include any extra text, markdown formatting, or explanations.")
+    
+    # Append the actual sentence details.
     prompt_parts.append(f"Sentence Number: {sentence_number}")
     prompt_parts.append(f"Sentence: {sentence}")
+    
     return "\n\n".join(prompt_parts)
-
 
 def call_deepseek(prompt):
     """
@@ -122,7 +120,7 @@ def call_deepseek(prompt):
     """
     try:
         result = subprocess.run(
-            ['ollama', 'run', 'deepseek-r1:8b'],
+            ['ollama', 'run', 'deepseek-r1:14b'],
             input=prompt,
             text=True,
             capture_output=True,
@@ -141,48 +139,24 @@ def call_deepseek(prompt):
         print("Exception while calling Deepseek:", str(e))
         return None
 
-# def worker(input_queue, output_queue, few_shot_examples, entity_types):
-#     """
-#     Worker process that:
-#       - Reads (sentence_number, sentence) tuples from the input_queue.
-#       - For each tuple, builds the prompt and calls Deepseek.
-#       - Parses the JSON output (a JSON array) and puts each extracted object into the output_queue.
-#       - Exits when it reads a sentinel value (None).
-#     """
-#     while True:
-#         item = input_queue.get()
-#         if item is None:
-#             break  # Sentinel received; exit.
-#         sentence_number, sentence = item
-#         prompt = construct_prompt(few_shot_examples, entity_types, sentence, sentence_number)
-#         result = call_deepseek(prompt)
-#         if result:
-#             try:
-#                 parsed = json.loads(result)
-#                 if isinstance(parsed, list):
-#                     for obj in parsed:
-#                         obj.setdefault('sentence', sentence)
-#                         obj.setdefault('sentence_number', sentence_number)
-#                         output_queue.put(obj)
-#                 else:
-#                     output_queue.put(None)
-#             except json.JSONDecodeError:
-#                 print("JSON decode error for sentence:", sentence)
-#                 print("Raw fetched output:", result)
-#                 output_queue.put(None)
-#         else:
-#             output_queue.put(None)
-def worker(input_queue, output_queue, few_shot_examples, entity_types, chunk_size=10):
+def worker(input_queue, output_queue, few_shot_examples, entity_types, chunk_size, log_prompt=False, log_lock=None):
     while True:
         item = input_queue.get()
         if item is None:
             break  # Sentinel received; exit.
         sentence_number, sentence = item
         all_results = []
-        # Process the sentence in chunks of entity types.
+        # Process the sentence in chunks of entity types using the specified chunk_size.
         for entity_chunk in chunk_entity_types(entity_types, chunk_size):
             # Build a prompt using only this chunk.
             prompt = construct_prompt(few_shot_examples, entity_chunk, sentence, sentence_number)
+            # If logging is enabled, save the prompt to a file.
+            if log_prompt and log_lock is not None:
+                with log_lock:
+                    with open("sent_prompt.txt", "a", encoding="utf-8") as f:
+                        f.write(f"DEBUG: Final prompt for sentence {sentence_number}:\n")
+                        f.write(prompt + "\n")
+                        f.write("=" * 60 + "\n")
             result = call_deepseek(prompt)
             if result:
                 try:
@@ -192,7 +166,7 @@ def worker(input_queue, output_queue, few_shot_examples, entity_types, chunk_siz
                 except json.JSONDecodeError:
                     print("JSON decode error for sentence:", sentence)
                     print("Raw fetched output:", result)
-        # Optionally, deduplicate results (if the same relation is found in multiple chunks)
+        # Optionally, deduplicate results...
         unique_results = {json.dumps(obj, sort_keys=True): obj for obj in all_results}.values()
         for obj in unique_results:
             obj.setdefault('sentence', sentence)
@@ -200,7 +174,7 @@ def worker(input_queue, output_queue, few_shot_examples, entity_types, chunk_siz
             output_queue.put(obj)
 
 def process_document(document_file, few_shot_file, entity_file,
-                     output_json_file, output_csv_file, num_workers):
+                     output_json_file, output_csv_file, num_workers, log_prompt, chunk_size):
     """
     Orchestrates:
       - Loading input files.
@@ -216,16 +190,15 @@ def process_document(document_file, few_shot_file, entity_file,
     manager = multiprocessing.Manager()
     input_queue = manager.Queue()
     output_queue = manager.Queue()
+    # Create a lock for writing prompts to file.
+    log_lock = multiprocessing.Lock()
 
-    workers = []
     workers = []
     for _ in range(num_workers):
         p = multiprocessing.Process(target=worker,
-                                    args=(input_queue, output_queue, few_shot_examples, entity_types, 10))
+                                    args=(input_queue, output_queue, few_shot_examples, entity_types, chunk_size, log_prompt, log_lock))
         p.start()
         workers.append(p)
-
-
 
     for item in sentence_tuples:
         input_queue.put(item)
@@ -233,19 +206,6 @@ def process_document(document_file, few_shot_file, entity_file,
     for _ in range(num_workers):
         input_queue.put(None)
 
-    # results = []
-    # num_sentences = len(sentence_tuples)
-    # pbar = tqdm(total=num_sentences, desc="Processing sentences")
-    # collected_sentences = 0
-    # while collected_sentences < num_sentences:
-    #     try:
-    #         item = output_queue.get(timeout=5)
-    #         if item is not None:
-    #             results.append(item)
-    #     except Exception:
-    #         collected_sentences += 1
-    #         pbar.update(1)
-    # pbar.close()
     results = []
     num_sentences = len(sentence_tuples)
     pbar = tqdm(total=num_sentences, desc="Processing sentences")
@@ -256,9 +216,17 @@ def process_document(document_file, few_shot_file, entity_file,
         pbar.update(1)
     pbar.close()
 
-
     for p in workers:
         p.join()
+
+    # Create directories if needed
+    json_dir = os.path.dirname(output_json_file)
+    if json_dir and not os.path.exists(json_dir):
+        os.makedirs(json_dir)
+
+    csv_dir = os.path.dirname(output_csv_file)
+    if csv_dir and not os.path.exists(csv_dir):
+        os.makedirs(csv_dir)
 
     with open(output_json_file, 'w', encoding='utf-8') as jf:
         json.dump(results, jf, indent=4)
@@ -283,6 +251,7 @@ def main():
     parser = argparse.ArgumentParser(
         description="Extract legal relations from each sentence using Deepseek via Ollama with persistent worker processes. Outputs both JSON and CSV files."
     )
+    parser.add_argument('--log_prompt', action='store_true', help="Save the prompt sent to the model in a text file named sent_prompt.txt.")
     parser.add_argument('--document_file', type=str, required=True,
                         help="Path to the input document file (one sentence per line).")
     parser.add_argument('--few_shot_file', type=str, required=True,
@@ -295,6 +264,8 @@ def main():
                         help="Path for the output CSV file.")
     parser.add_argument('--num_workers', type=int, default=16,
                         help="Number of persistent worker processes.")
+    parser.add_argument('--chunk_size', type=int, default=10,
+                        help="Number of entity types per chunk when constructing the prompt.")
     args = parser.parse_args()
 
     process_document(args.document_file,
@@ -302,7 +273,12 @@ def main():
                      args.entity_file,
                      args.output_json_file,
                      args.output_csv_file,
-                     args.num_workers)
+                     args.num_workers,
+                     args.log_prompt,
+                     args.chunk_size)
 
 if __name__ == '__main__':
     main()
+
+
+##python run4.py --document_file ./datasets/processed_cr.txt --few_shot_file ./datasets/few_shot_examples_triple.txt --entity_file ./datasets/entity_types.txt --output_json_file .output/results.json --output_csv_file .output/results.csv --num_workers 16 --log_prompt --chunk_size 10

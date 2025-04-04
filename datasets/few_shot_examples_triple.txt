@@ -4,35 +4,36 @@ Sentence Number: 1
 Output: [
   {
     "head": "Mr. A. Kumar",
-    "head_type": "plaintiff",
+    "head_type": "Plaintiff",
     "relation": "filed lawsuit against",
     "tail": "Acme Corporation",
-    "tail_type": "defendant",
-    "relation_definition": "plaintiff initiated legal action against the defendant.",
-    "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.",
-    "sentence_number": 1
+    "tail_type": "Defendant",
+    "relation_definition": "Plaintiff initiated legal action against Defendant.",
+    "sentence": "On 12 March 2023, Mr. A. Kumar filed a lawsuit against Acme Corporation in the Delhi High Court.",
+    "sentence_number": "1"
   },
   {
     "head": "12 March 2023",
-    "head_type": "date and time",
+    "head_type": "Date and Time",
     "relation": "date of filing",
-    "tail": "lawsuit",
-    "tail_type": "lawsuit",
-    "relation_definition": "date and time of filing the lawsuit",
-    "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.",
-    "sentence_number": 1
+    "tail": "Lawsuit",
+    "tail_type": "Lawsuit",
+    "relation_definition": "Represents the date and time when the Lawsuit was filed.",
+    "sentence": "On 12 March 2023, Mr. A. Kumar filed a lawsuit against Acme Corporation in the Delhi High Court.",
+    "sentence_number": "1"
   },
   {
-    "head": "lawsuit",
-    "head_type": "lawsuit",
+    "head": "Lawsuit",
+    "head_type": "Lawsuit",
     "relation": "filed in",
-    "tail": "Delhi High court",
-    "tail_type": "court",
-    "relation_definition": "lawsuit was filed in this court",
-    "sentence": "On 12 March 2023, the plaintiff, Mr. A. Kumar, filed a lawsuit against the defendant, Acme Corporation, in the Delhi High Court.",
-    "sentence_number": 1
+    "tail": "Court",
+    "tail_type": "Court",
+    "relation_definition": "Indicates that the Lawsuit was filed in a Court.",
+    "sentence": "On 12 March 2023, Mr. A. Kumar filed a lawsuit against Acme Corporation in the Delhi High Court.",
+    "sentence_number": "1"
   }
 ]
+
 
 
 Example 2:
@@ -41,25 +42,26 @@ Sentence Number: 2
 Output: [
   {
     "head": "Ms. Priya Sharma",
-    "head_type": "learned counsel",
+    "head_type": "Learned Counsel",
     "relation": "represented",
     "tail": "Global Tech Solutions",
-    "tail_type": "organization",
-    "relation_definition": "the counsel acted on behalf of the organization.",
-    "sentence": "The learned counsel, Ms. Priya Sharma, represented the organization, Global Tech Solutions, in an appeal case at the Mumbai High Court.",
-    "sentence_number": 2
+    "tail_type": "Organization",
+    "relation_definition": "Learned Counsel acted on behalf of Organization.",
+    "sentence": "Ms. Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court.",
+    "sentence_number": "2"
   },
   {
     "head": "Global Tech Solutions",
-    "head_type": "organization",
+    "head_type": "Organization",
     "relation": "was involved in",
-    "tail": "appeal case",
-    "tail_type": "appeal",
-    "relation_definition": "the organization was involved in the appeal case.",
-    "sentence": "The learned counsel, Ms. Priya Sharma, represented the organization, Global Tech Solutions, in an appeal case at the Mumbai High Court.",
-    "sentence_number": 2
+    "tail": "Appeal",
+    "tail_type": "Appeal",
+    "relation_definition": "Indicates that Organization was involved in the Appeal.",
+    "sentence": "Ms. Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court.",
+    "sentence_number": "2"
   }
 ]
+
 
 Example 3:
 Sentence: "The difinition demonstrated that they are not in the position of fixing a deal."
